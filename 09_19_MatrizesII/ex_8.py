@@ -1,0 +1,1 @@
+# Faça um algoritmo que receba um valor N correspondente ao tamanho de uma matriz quadrada de ordem N (MNxN). Calcule; o DETERMINANTE da matriz
