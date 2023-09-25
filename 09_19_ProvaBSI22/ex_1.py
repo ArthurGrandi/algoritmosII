@@ -4,6 +4,8 @@
 #ENTRADA
 # Valores da lista A e B
 
+print("\nExercício 1:\n")
+
 ListaA = []
 ListaB = []
 

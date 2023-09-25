@@ -3,6 +3,9 @@
 
 Em seguida, identifique e exiba quantos números ímpares e os pares foram fornecidos, sem considerar o valor 0.
 """
+
+print("\nExercício 1:\n")
+
 contP = 0
 contI = 0
 
@@ -17,33 +20,34 @@ while True:
 
 print("\nA quantidade de numeros pares é: ",contP, "\n\nA quantidade de numeros impares é: ",contI)
 
-"""
-print("\nExercício 1:\n")
-print("Informe números para saber quais são pares e quais são ímpares. (digite 0 para parar)")
 
-n = 1
-par = 0
-impar = 0
 
-while True:
-    print(f"Insira o {n}º número: ")
-    inp = input()
+#print("\nExercício 1:\n")
+#print("Informe números para saber quais são pares e quais são ímpares. (digite 0 para parar)")
 
-    try:
-        inp = int(inp)
-        n += 1
-        print("")
-        if inp == 0:
-            break
-        elif inp % 2 == 0:
-            par = par+1
-        else:
-            impar = impar+1
+#n = 1
+#par = 0
+#impar = 0
 
-    except ValueError:
-        print("Por favor insira um número válido.\n")
+#while True:
+#    print(f"Insira o {n}º número: ")
+#    inp = input()
 
-print("Pares:", par)
-print("Ímpares:", impar)
-print("")
-"""
+#    try:
+#        inp = int(inp)
+#        n += 1
+#        print("")
+#        if inp == 0:
+#            break
+#        elif inp % 2 == 0:
+#            par = par+1
+#        else:
+#            impar = impar+1
+
+#    except ValueError:
+#        print("Por favor insira um número válido.\n")
+
+#print("Pares:", par)
+#print("Ímpares:", impar)
+#print("")
+

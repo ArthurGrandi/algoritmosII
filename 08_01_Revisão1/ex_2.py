@@ -31,41 +31,40 @@ print(mediaFilhos / 3)
 print(salarioInferior / 3 * 100, "%")
 
 
-"""
-print("\nExercício 2:\n")
 
-n = 1
-s = 0
-f = 0
-p = 0
+#print("\nExercício 2:\n")
 
-print("Média do Salário e número de filhos entre 100 pessoas.\n")
+#n = 1
+#s = 0
+#f = 0
+#p = 0
 
-for i in range(5):
-    print("Pessoa", n, ":")
-    salario = float(input("Salário: "))
-    s += salario
-    filhos = float(input("Qtd. de filhos: "))
-    f += filhos
-print("")
+#print("Média do Salário e número de filhos entre 100 pessoas.#\n")
 
-if i == 0:
-    maior = salario
-else:
-    if salario > maior:
-        maior = salario
-if salario <= 1500:
-    p += 1
+#for i in range(5):
+#    print("Pessoa", n, ":")
+#    salario = float(input("Salário: "))
+#    s += salario
+#    filhos = float(input("Qtd. de filhos: "))
+#    f += filhos
+#print("")
 
-n += 1
+#if i == 0:
+#    maior = salario
+#else:
+#    if salario > maior:
+#        maior = salario
+#if salario <= 1500:
+#    p += 1
 
-n -= 1
-s = s/n
-f = f/n
-p = (p/n)*100
+#n += 1
 
-print(f"Média salárial: R${s}")
-print(f"Média da qtd. de filhos: {f}")
-print(f"Maior salário: R${maior}")
-print(f"Porcentagem de pessoas com salários até R$ 1500: {p}%\n")
-"""
+#n -= 1
+#s = s/n
+#f = f/n
+#p = (p/n)*100
+
+#print(f"Média salárial: R${s}")
+#print(f"Média da qtd. de filhos: {f}")
+#print(f"Maior salário: R${maior}")
+#print(f"Porcentagem de pessoas com salários até R$ 1500: {p}#%\n")
