@@ -1,0 +1,1 @@
+# 4.	Escreva um programa que preencha um vetor de inteiros de 10 posições e solicite ao usuário um valor inteiro para ser procurado no vetor. Crie uma função que receba como parâmetro o vetor e o número a ser procurado. Ao final, retorne quantas vezes o número foi encontrado no vetor.

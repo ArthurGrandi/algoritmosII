@@ -1,0 +1,1 @@
+# 3.	Construa uma função que receba como parâmetro uma matriz quadrada 4 X 4 e retorne a soma dos valores da diagonal principal.

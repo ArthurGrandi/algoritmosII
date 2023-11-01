@@ -1,0 +1,1 @@
+# 2.	Escreva um algoritmo que leia um valor para X e uma sub-rotina que imprima todos os números ímpares do intervalo fechado de 1 a X.
