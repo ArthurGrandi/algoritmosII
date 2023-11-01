@@ -16,10 +16,9 @@ Tamanho = 25
 
 for i in range(Tamanho):
     Lista.append(float(input(f"Qual número você deseja preencher na posição V[{i}]? \n")))
-    Lista[i] = Lista[i] * -1
+    Lista_Inversa.append(Lista[i]*-1)
 
-Lista.reverse()
+Lista_Inversa.reverse()
 
-Lista_Inversa = Lista
-
+print(Lista)
 print(Lista_Inversa)

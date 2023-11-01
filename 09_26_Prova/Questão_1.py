@@ -2,7 +2,7 @@
 
 import numpy as np
 
-print("\nQuestão 1)\n")
+print("\nQuestão 1)")
 
 Lista = np.zeros(8)
 
@@ -14,7 +14,7 @@ Zeros = []
 Tamanho = 8
 
 for i in range(Tamanho):
-    Lista[i] = int(input(f"Qual número você deseja preencher na posição V[{i}]? \n"))
+    Lista[i] = int(input(f"\nQual número você deseja preencher na posição V[{i}]? \n"))
 
 for i in range(Tamanho):
     if (Lista[i] > Zero):
@@ -22,9 +22,6 @@ for i in range(Tamanho):
     elif (Lista[i] < Zero):
         NumNegativo.append(Lista[i])
 
-print(f"Lista original: {Lista}")
-print("")
-print(f"Numeros positivos: {NumPositivo}")
-print("")
+print(f"Lista original: {Lista}\n")
+print(f"Numeros positivos: {NumPositivo}\n")
 print(f"Numeros negativos: {NumNegativo}")
-

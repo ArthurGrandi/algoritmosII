@@ -12,3 +12,32 @@
 # 1 5 -1
 # 10 4 -10
 # 24 0 15
+
+import numpy as np
+
+print("\nQuestão 5) \n")
+
+TamanhoLista = 3
+Lista = []
+Matriz = [[], [], []]
+
+for i in range(TamanhoLista):
+    Lista.append(int(input(f"Informe o {i+1}º valor do vetor: ")))
+
+for i in range(TamanhoLista):
+    for c in range(TamanhoLista):
+        Matriz[i].append(int(input(f"Informe o elemento {i + 1},{c + 1} da matriz: ")))
+
+MatrizResultado = []
+
+for c in range(TamanhoLista):
+    linha = []
+    for l in range(TamanhoLista):
+        linha.append(Lista[l] * Matriz[l][c])
+    MatrizResultado.append(linha)
+
+print(f"Vetor: {Lista}")
+print("")
+print(f"Matriz: {Matriz}")
+print("")
+print(f"Resultado: {MatrizResultado}")
