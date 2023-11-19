@@ -1,0 +1,793 @@
+Name,Size,Type,Align.,AC,HP,Speeds,STR,DEX,CON,INT,WIS,CHA,Sav. Throws,Languages,CR
+Aarakocra,Medium,Humanoid,NG,12,13,"20, 50 fly",10,14,10,11,12,11,None,Auran,0.25
+Aboleth,Large,Aberration,LE,17,135,"10, swim 40",21,9,15,18,15,18,"CON, INT, WIS","Deep Speech, Telepathy 120",10.00
+Albino Dwarf Warrior,Medium,Humanoid (Dwarf),ANY,13,30,25,13,13,17,12,14,11,None,"Common, Dwarvish",0.25
+Aldani (Lobsterfolk),Medium,Monstrosity,LN,14,49,"20, swim 30",13,8,12,10,14,10,None,Common,1.00
+Allip,Medium,Undead,NE,13,40,fly 40,6,17,10,17,15,16,"INT, WIS",Any,5.00
+Almiraj,Small,Beast,ANY,13,3,50,2,16,10,2,14,10,None,None,0.00
+Ambush Drake,Medium,Dragon,ANY,13,22,30,13,15,14,4,11,6,None,Draconic,0.50
+"Angel, Deva",Medium,Celestial,LG,17,136,"30, 90 fly",18,18,18,17,20,20,"WIS, CHA","All, Telepathy 120",10.00
+"Angel, Planetar",Large,Celestial,LG,19,200,"40, 120 fly",24,20,24,19,22,25,"CON, WIS, CHA","All, telepathy 120",16.00
+"Angel, Solar",Large,Celestial,LG,21,243,"50, 150 fly",26,22,26,25,25,30,"INT, WIS, CHA","All, telepathy 120",21.00
+"Animated Object, Armor",Medium,Construct,ANY,18,33,25,14,11,13,1,3,1,None,None,1.00
+"Animated Object, Broom of Attack",Small,Construct,ANY,15,17,50 fly,10,17,10,1,5,1,None,None,0.25
+"Animated Object, Flying Sword",Small,Construct,ANY,17,17,50 fly,12,15,11,1,5,1,DEX,None,0.25
+"Animated Object, Rug of Smothering",Large,Construct,ANY,12,33,10,17,14,10,1,3,1,None,None,2.00
+"Animated Object, Table",Large,Construct,ANY,15,39,40,18,8,13,1,3,1,None,None,2.00
+Ankheg,Large,Monstrosity,ANY,14,39,"30, 10 burrow",17,11,13,1,13,6,None,None,2.00
+Assassin Vine,Large,Plant,ANY,13,85,"5, climb 5",18,10,16,1,10,1,None,None,3.00
+"Assorted Beast, Aurochs",Large,Beast,ANY,11,38,50,20,10,19,2,12,5,None,None,2.00
+"Assorted Beast, Cattle",Large,Beast,ANY,10,15,30,18,10,14,2,10,4,None,None,0.25
+"Assorted Beast, Dolphin",Medium,Beast,ANY,12,11,swim 60,14,13,13,6,12,7,None,None,0.13
+"Assorted Beast, Swarm of Rot Grubs",Medium,Beast ,ANY,8,22,"5, climb 5",2,7,10,1,2,1,None,None,0.50
+Astral Dreadnought,Gargantuan,Monstrosity,ANY,20,297,"15, fly 80",28,7,25,5,14,18,"DEX, WIS",None,21.00
+Atropal,Huge,Undead (Titan),NE,7,225,fly 50,19,5,22,25,19,24,"CON, WIS",Celestial,13.00
+Awakened Zurkhwood,Huge,Plant,ANY,13,59,20,19,6,15,10,10,7,None,Any,2.00
+Azer,Medium,Elemental,LN,17,39,30,17,12,15,12,13,10,CON,Ignan,2.00
+Baba Lysaga's Creeping Hut,Gargantuan,Construct,ANY,16,263,30,26,7,20,1,3,3,"CON, WIS, CHA",None,11.00
+Balhannoth,Large,Aberration,CE,17,114,"25, climb 25",17,8,18,6,15,8,CON,"Deep Speech, telepathy 1 mile",11.00
+Banderhobb,Large,Monstrosity,NE,15,84,30,20,12,20,11,14,8,None,"Common, Any",5.00
+Banshee,Medium,Undead,CE,12,58,40 fly,1,14,10,12,11,17,"WIS, CHA","Common, Elvish",4.00
+Barghest,Large,Fiend (Shapechanger),NE,17,90,60,19,15,14,13,12,14,None,"Abyssal, Common, Goblin, Infernal, telepathy 60",4.00
+Basilisk,Medium,Monstrosity,ANY,15,52,30,16,8,15,2,8,7,"STR, CON, WIS, CHA","Infernal, telepathy 120",3.00
+Behir,Huge,Monstrosity,NE,17,168,"50, climb 40",23,16,18,7,16,12,None,Draconic,11.00
+Beholder,Large,Aberration,LE,18,180,30,10,14,18,17,15,17,"STR, CON, WIS","Infernal, telepathy 120",13.00
+"Beholder, Death Kiss",Large,Aberration,NE,16,161,fly 30,18,14,18,10,12,10,"CON, WIS","Deep Speech, Undercommon",10.00
+"Beholder, Death Tyrant",Large,Undead,LE,19,187,"50, 40 climb",10,14,14,19,15,19,None,Draconic,14.00
+"Beholder, Gauth",Medium,Aberration,LE,15,67,fly 20,10,14,16,15,15,13,"INT, WIS, CHA","Deep Speech, Undercommon",6.00
+"Beholder, Gazer",Tiny,Aberration,NE,13,13,fly 30,3,17,14,3,10,7,WIS,None,0.50
+"Beholder, Spectator",Medium,Aberration,LN,14,39,20 fly,8,14,14,13,14,11,"INT, WIS, CHA","Deep Speech, Undercommon",3.00
+Berbalang,Medium,Aberration,NE,14,38,"30, fly 40",9,16,9,17,11,10,None,All,2.00
+Black Earth Guard,Medium,Humanoid (Human),NE,18,39,30,17,11,14,10,10,9,None,Common,2.00
+Black Earth Priest,Medium,Humanoid (Human),NE,17,45,30,15,11,14,12,10,16,None,"Common, Terran",3.00
+"Black Earth, Burrowshark",Medium,Humanoid (Human),NE,18,82,30,18,12,16,10,11,13,None,Common,4.00
+"Black Earth, Sacred Stone Monk",Medium,Humanoid (Human),LE,14,22,40,13,15,12,10,14,9,None,Common,0.50
+"Black Earth, Stonemelder",Medium,Humanoid (Human),NE,17,75,30,15,10,16,12,11,17,None,"Common, Terran",4.00
+"Blight, Needle",Medium,Plant,NE,12,11,30,12,12,13,4,8,3,None,Common,0.25
+"Blight, Tree",Huge,Plant,NE,15,149,30,23,10,20,6,10,3,None,"Common, Druidic",7.00
+"Blight, Twig",Small,Plant,NE,13,4,"20, ",6,13,12,4,8,3,None,Common,0.13
+"Blight, Vine",Medium,Plant,NE,12,26,30,15,8,14,5,10,3,None,Common,0.50
+Bodak,Medium,Undead,CE,15,58,30,15,16,15,7,12,12,None,"Abyssal, Any",6.00
+Boggle,Small,Fey,CN,14,18,"30, climb 30",8,18,13,6,12,7,None,Sylvan,0.13
+Boneclaw,Large,Undead,CE,16,127,40,19,16,15,13,15,9,"DEX, CON, WIS","Common, Any",12.00
+Bugbear,Medium,Humanoid,CE,16,27,30,15,14,13,8,11,9,None,"Common, Goblin",1.00
+Bugbear Chief,Medium,Humanoid,CE,17,65,30,17,14,14,11,12,11,None,"Common, Goblin",3.00
+Bulette,Large,Monstrosity,ANY,17,94,"40, 40 burrow",19,11,21,2,10,5,None,None,5.00
+Bullywug,Medium,Humanoid,NE,15,11,"20, swim 40",12,12,13,7,10,7,None,Own,0.25
+Cadaver Collector,Large,Construct,LE,17,189,30,21,14,20,5,11,8,None,All,14.00
+Cambion,Medium,Fiend,ANY,19,82,"30, fly 60",18,18,16,14,12,16,"STR, CON, INT, CHA","Abyssal, Common, Infernal",5.00
+Carrion Crawler,Large,Monstrosity,ANY,13,51,"30, 30 climb",14,13,16,1,12,5,None,None,2.00
+Catoblepas,Large,Monstrosity,ANY,14,84,30,19,12,21,3,4,8,None,None,5.00
+Cave Fisher,Medium,Monstrosity,ANY,16,58,"20, climb 20",16,13,14,3,10,3,None,None,3.00
+Centaur,Large,Monstrosity,NG,12,45,50,18,14,14,9,13,11,None,"Elvish, Sylvan",2.00
+Centaur Mummy,Large,Undead,LE,13,85,30,20,12,16,5,14,12,WIS,"Common, Sylvan",6.00
+Chimera,Large,Monstrosity,CE,14,114,"30, fly 60",19,11,19,3,14,10,None,Draconic,6.00
+Chitine,Small,Monstrosity,CE,14,18,"30, climb 30",10,14,12,10,10,7,None,Undercommon,0.50
+"Chitine, Choldrith",Medium,Monstrosity,CE,15,66,"30, climb 30",12,16,12,11,14,10,None,Undercommon,3.00
+Choker,Small,Aberration,CE,16,13,30,16,14,13,4,12,7,None,Deep Speech,1.00
+Chuul,Large,Aberration,CE,16,93,"30, 30 swim",19,10,16,5,11,5,None,Deep Speech,4.00
+Chwinga,Tiny,Elemental,N,15,5,"20, climb 20, swim 20",1,20,10,14,16,16,None,None,0.00
+Cloaker,Large,Aberration,CN,14,78,"10, fly 40",17,15,12,13,12,14,None,"Deep Speech, Undercommon",8.00
+"Clockwork, Bronze Scout",Medium,Construct,ANY,13,18,"30, burrow 30",10,16,11,3,14,1,None,Creator,1.00
+"Clockwork, Iron Cobra",Medium,Construct,ANY,13,45,30,12,16,14,3,10,1,None,Creator,4.00
+"Clockwork, Oaken Bolter",Medium,Construct,ANY,16,58,30,12,18,15,3,10,1,None,Creator,5.00
+"Clockwork, Stone Defender",Medium,Construct,ANY,16,52,30,19,10,17,3,10,1,None,Creator,4.00
+Cockatrice,Small,Monstrosity,ANY,11,27,"20, fly 40",6,12,12,2,13,5,None,None,0.50
+Corpse Flower,Large,Plant,CE,12,127,"20, climb 20",14,14,16,7,15,3,None,None,8.00
+Couatl,Medium,Celestial,LG,19,97,"30, 90 fly",16,20,17,18,20,18,"CON, WIS, CHA","All, telepathy 120",4.00
+Crag Cat,Large,Beast,ANY,13,34,40,16,17,16,4,14,8,None,None,1.00
+Cranium Rat,Tiny,Beast,LE,12,2,30,2,14,10,4,11,8,None,Telepathy 30,0.00
+"Cranium Rat, Swarm",Medium,Beast ,LE,12,36,30,9,14,10,15,11,14,None,Telepathy 30,5.00
+Crawling Claw,Tiny,Undead,NE,12,2,"20, climb 20",13,14,11,5,10,4,None,Common,0.00
+Crushing Wave Priest,Medium,Humanoid (Human),NE,13,52,30,15,11,14,10,11,16,None,"Aquan, COmmon",2.00
+Crushing Wave Reaver,Medium,Humanoid (Human),NE,14,22,30,15,14,13,10,11,8,None,Common,0.50
+"Crushing Wave, Dark Tide Knight",Medium,Humanoid (Human),LE,13,58,30,17,16,14,10,11,11,None,Common,3.00
+"Crushing Wave, Fathomer",Medium,Humanoid (Human),NE,10,52,30,14,11,14,11,11,15,None,"Aquan, Common",2.00
+"Crushing Wave, One-Eyed Shiver",Medium,Humanoid (Human),CE,12,49,30,10,14,12,13,13,17,None,Common,3.00
+Cyclops,Huge,Giant,CN,14,138,30,22,11,20,8,6,10,None,Giant,6.00
+Darkling,Small,Fey,CN,14,13,30,9,16,12,10,12,10,None,"Elvish, Sylvan",0.50
+Darkling Elder,Medium,Fey,CN,15,27,30,13,17,12,10,14,13,None,"Elvish, Sylvan",2.00
+Darkmantle,Small,Monstrosity,ANY,11,22,"10, fly 30",16,12,13,2,10,5,None,None,0.50
+Death Knight,Medium,Undead,CE,20,180,30,20,11,20,12,16,18,"DEX, WIS, CHA","Abyssal, Common",17.00
+Deathlock,Medium,Undead,NE,12,36,30,11,15,10,14,12,16,"INT, CHA",Any,4.00
+Deathlock Mastermind,Medium,Undead,NE,13,110,30,11,16,12,15,12,17,"INT, CHA",Any,8.00
+Deathlock Wight,Medium,Undead,NE,12,37,30,11,14,16,12,14,16,WIS,Any,3.00
+Decapus,Large,Monstrosity,ANY,14,75,"15, climb 30",15,14,14,4,10,7,None,None,4.00
+Deep Scion,Medium,Humanoid (Shapechanger),NE,11,67,"30, swim 40",18,13,16,10,12,14,"WIS, CHA","Aquan, Common, Thieves' Cant",3.00
+Demilich,Tiny,Undead,NE,20,80,fly 30,1,20,10,20,17,20,"CON, INT, WIS, CHA",None,18.00
+"Demon Lord, Baphomet",Huge,Fiend (Demon),CE,22,275,40,30,14,26,18,24,16,"DEX, CON, WIS","All, telepathy 120",23.00
+"Demon Lord, Demogorgon",Huge,Fiend (Demon),CE,22,406,"50, swim 50",29,14,26,20,17,25,"DEX, CON, WIS, CHA","All, telepathy 120",26.00
+"Demon Lord, Fraz-Urb'Luu",Large,Fiend (Demon),CE,18,337,"40, fly 40",29,12,25,26,24,26,"DEX, CON, INT, WIS","All, telepathy 120",23.00
+"Demon Lord, Graz'Zt",Large,"Fiend (Demon)
+Fiend (Shapechanger)",CE,20,346,40,22,15,21,23,21,26,"DEX, CON, WIS","All, telepathy 120",24.00
+"Demon Lord, Juiblex",Huge,Fiend (Demon),CE,18,350,30,24,10,23,20,20,16,"DEX, CON, WIS","All, telepathy 120",23.00
+"Demon Lord, Orcus",Huge,Fiend (Demon),CE,20,405,"40, fly 40",27,14,25,20,20,25,"DEX, CON, WIS","All, telepathy 120",26.00
+"Demon Lord, Yeenoghu",Huge,Fiend (Demon),CE,20,333,50,29,16,23,15,24,15,"DEX, CON, WIS","All, telepathy 120",24.00
+"Demon Lord, Zuggtmoy",Large,Fiend (Demon),CE,18,304,30,22,15,18,20,19,24,"DEX, CON, WIS","All, telepathy 120",23.00
+"Demon, Abyssal Wretch",Medium,Fiend (Demon),CE,11,18,20,9,12,11,5,8,5,None,Abyssal,0.25
+"Demon, Alkilith",Medium,Fiend (Demon),CE,17,157,40,12,19,22,6,11,7,"DEX, CON",Abyssal,11.00
+"Demon, Armanite",Large,Fiend (Demon),CE,16,84,60,21,18,21,8,12,13,None,"Abyssal, telepathy 120",7.00
+"Demon, Babau",Medium,Fiend (Demon),CE,16,82,40,19,16,16,11,12,13,None,Abyssal,4.00
+"Demon, Balor",Huge,Fiend (Demon),CE,19,262,"40, 80 fly",26,15,22,20,16,22,"STR, CON, WIS, CHA","Abyssal, telepathy 120",19.00
+"Demon, Barlgura",Large,Fiend (Demon),CE,15,68,"30, 30 climb",18,15,16,7,14,9,"DEX, CON","Abyssal, telepathy 120",5.00
+"Demon, Bulezau",Medium,Fiend (Demon),CE,14,52,40,15,14,17,8,9,6,None,"Abyssal, telepathy 60",3.00
+"Demon, Chasme",Large,Fiend (Demon),CE,15,84,"20, fly 60",15,15,12,11,14,10,"DEX, WIS","Abyssal, telepathy 120",6.00
+"Demon, Draegloth",Large,Fiend (Demon),CE,15,123,30,20,15,18,13,11,11,None,"Abyssal, Elvish, Undercommon",7.00
+"Demon, Dretch",small,Fiend (Demon),CE,11,18,20,11,11,12,5,8,3,None,"Abyssal, telepathy 60",0.25
+"Demon, Dybbuk",Medium,Fiend (Demon),CE,14,37,40 fly,6,19,16,16,15,14,None,"Abyssal, Common, telepathy 120",4.00
+"Demon, Glabrezu",Large,Fiend (Demon),CE,17,157,40,20,15,21,19,17,16,"STR, CON, WIS, CHA","Abyssal, telepathy 120",9.00
+"Demon, Goristro",Huge,Fiend (Demon),CE,19,310,40,25,11,25,6,13,14,"STR, DEX, CON, WIS",Abyssal,17.00
+"Demon, Hezrou",Large,Fiend (Demon),CE,16,136,30,19,17,20,5,12,13,"STR, CON, WIS","Abyssal, telepathy 120",8.00
+"Demon, Manes",Small,Fiend (Demon),CE,9,9,20,10,9,13,3,8,4,None,Abyssal,0.13
+"Demon, Marilith",Large,Fiend (Demon),CE,18,189,40,18,20,20,18,16,20,"STR, CON, WIS, CHA","Abyssal, telepathy 120",16.00
+"Demon, Maurezhi",Medium,Fiend (Demon),CE,15,88,30,14,17,12,11,12,15,None,"Abyssal, Elvish, telepathy 120",7.00
+"Demon, Maw",Medium,Fiend (Demon),CE,13,33,30,14,8,13,5,8,5,None,Abyssal,1.00
+"Demon, Molydeus",Huge,Fiend (Demon),CE,19,216,40,28,22,25,21,24,24,"STR, CON, WIS, CHA","Abyssal, telepathy 120",21.00
+"Demon, Nabassu",Medium,Fiend (Demon),CE,18,190,"40, fly 60",22,14,21,14,15,17,"STR, DEX","Abyssal, telepathy 120",15.00
+"Demon, Nalfeshnee",Large,Fiend (Demon),LE,18,184,"20, fly 30",21,10,22,19,12,15,"CON, INT, WIS, CHA","Abyssal, telepathy 120",13.00
+"Demon, Quasit",Tiny,Fiend (Demon),CE,13,7,40,5,17,10,7,10,10,None,"Abyssal, Common",1.00
+"Demon, Rutterkin",Medium,Fiend (Demon),CE,12,37,20,14,15,17,5,12,6,None,Abyssal,2.00
+"Demon, Shadow",Medium,Fiend (Demon),CE,13,66,"30, fly 30",1,17,12,14,13,14,"DEX, CHA","Abyssal, telepathy 120",4.00
+"Demon, Shoosuva",Large,Fiend (Demon),CE,14,110,40,18,13,17,7,14,9,"DEX, CON, WIS","Abyssal, Gnoll, telepathy 120",8.00
+"Demon, Sibriex",Huge,Fiend (Demon),CE,19,150,fly 20,10,3,23,25,24,25,"INT, CHA","All, telepathy 120",18.00
+"Demon, Vrock",Large,Fiend (Demon),CE,15,104,"40, fly 60",17,15,18,8,13,8,"DEX, WIS, CHA","Abyssal, telepathy 120",6.00
+"Demon, Wastrilith",Large,Fiend (Demon),CE,18,157,"30, swim 80",19,18,21,19,12,14,"STR, CON","Abyssal, telepathy 120",13.00
+"Demon, Yochlol",Medium,Fiend (Demon),CE,15,136,"30, 30 climb",15,14,18,13,15,15,"DEX, INT, WIS, CHA","Abyssal, Elvish, Undercommon",10.00
+Derro,Small,Humanoid (Derro),CE,13,13,30,10,14,12,11,5,9,None,"Dwarvish, Undercommon",0.25
+Derro Savant,Small,Humanoid (Derro),CE,13,36,30,9,14,12,11,5,14,None,"Dwarvish, Undercommon",3.00
+"Devil, Abishai, Black",Medium,Fiend (Devil),LE,15,58,"30, fly 40",14,17,14,13,16,11,"DEX, WIS","Draconic, Infernal, telepathy 120",7.00
+"Devil, Abishai, Blue",Medium,Fiend (Devil),LE,19,195,"30, fly 50",15,14,17,22,23,18,"INT, WIS","Draconic, Infernal, telepathy 120",17.00
+"Devil, Abishai, Green",Medium,Fiend (Devil),LE,18,187,"30, fly 40",12,17,16,17,12,19,"INT, CHA","Draconic, Infernal, telepathy 120",15.00
+"Devil, Abishai, Red",Medium,Fiend (Devil),LE,22,255,"30, fly 50",23,16,19,14,15,19,"STR, CON, WIS","Draconic, Infernal, telepathy 120",19.00
+"Devil, Abishai, White",Medium,Fiend (Devil),LE,15,68,"30, fly 40",16,11,18,11,12,13,"STR, CON","Draconic, Infernal, telepathy 120",6.00
+"Devil, Amnizu",Medium,Fiend (Devil),LE,21,202,"30, fly 40",11,13,16,20,12,18,"DEX, CON, WIS, CHA","Common, Infernal, telepathy 1000",18.00
+"Devil, Arch, Bael",Large,Fiend (Devil),LE,18,189,30,24,17,20,21,24,24,"DEX, CON, INT, CHA","All, telepathy 120",19.00
+"Devil, Arch, Geryon",Huge,Fiend (Devil),LE,19,300,"30, fly 50",29,17,22,19,16,23,"DEX, CON, WIS, CHA","All, telepathy 120",22.00
+"Devil, Arch, Hutijin",Large,Fiend (Devil),LE,19,200,"30, fly 60",27,15,25,23,19,25,"DEX, CON, WIS","All, telepathy 120",21.00
+"Devil, Arch, Moloch",Large,Fiend (Devil),LE,19,253,30,26,19,22,21,18,23,"DEX, CON, WIS, CHA","All, telepathy 120",21.00
+"Devil, Arch, Titivilus",Medium,Fiend (Devil),LE,20,127,"40, fly 60",19,22,17,24,22,26,"DEX, CON, WIS, CHA","All, telepathy 120",16.00
+"Devil, Arch, Zariel",Large,Fiend (Devil),LE,21,580,"50, fly 150",27,24,28,26,27,30,"INT, WIS, CHA","All, telepathy 120",26.00
+"Devil, Barbed",Medium,Fiend (Devil),LE,15,110,30,16,17,18,12,14,14,"STR, CON, WIS, CHA","Infernal, telepathy 120",5.00
+"Devil, Bearded",Medium,Fiend (Devil),LE,13,52,30,16,15,15,9,11,11,"STR, CON, WIS","Infernal, telepathy 120",3.00
+"Devil, Bone",Large,Fiend (Devil),LE,19,142,"40, 40 fly",18,16,18,13,14,16,"INT, WIS, CHA","Infernal, telepathy 120",9.00
+"Devil, Chain",Medium,Fiend (Devil),LE,16,85,30,18,15,18,11,12,14,"CON, WIS, CHA","Infernal, telepathy 120",8.00
+"Devil, Erinyes",Medium,Fiend (Devil),LE,18,153,"30, fly 60",18,16,18,14,14,18,"DEX, CON, WIS, CHA","Infernal, telepathy 120",12.00
+"Devil, Hellfire Engine",Huge,Construct,LE,18,216,40,20,16,24,2,10,1,"DEX, WIS, CHA",Infernal,16.00
+"Devil, Horned",Large,Fiend (Devil),LE,18,178,"20, fly 60",22,17,21,12,16,17,"STR, DEX, WIS, CHA","Infernal, telepathy 120",11.00
+"Devil, Ice",Large,Fiend (Devil),LE,18,180,40,21,14,18,18,15,18,"DEX, CON, WIS, CHA","Infernal, telepathy 120",14.00
+"Devil, Imp",Tiny,Fiend (Devil),LE,13,10,"20, 40 fly",6,17,13,11,12,14,None,"Infernal, Common",1.00
+"Devil, Lemure",Medium,Fiend (Devil),LE,7,13,15,10,5,11,1,11,3,None,Infernal,0.00
+"Devil, Merregon",Medium,Fiend (Devil),LE,16,45,30,18,14,17,6,12,8,None,"Infernal, telepathy 120",4.00
+"Devil, Narzugon",Medium,Fiend (Devil),LE,20,112,30,20,10,17,16,14,19,"DEX, CON, CHA","Common, Infernal, telepathy 120",13.00
+"Devil, Nupperibo",Medium,Fiend (Devil),LE,13,11,20,16,11,13,3,8,1,None,Infernal,0.50
+"Devil, Orthon",Large,Fiend (Devil),LE,17,105,"30, climb 30",22,16,21,15,15,16,"DEX, CON, WIS","Common, INfernal, telepathy 120",10.00
+"Devil, Pit Fiend",Large,Fiend (Devil),LE,19,300,"30, fly 60",26,14,24,22,18,24,"DEX, CON, WIS","Infernal, telepathy 120",20.00
+"Devil, Spined",Small,Fiend (Devil),LE,15,22,"20, 40 fly",10,15,12,11,14,8,None,"Infernal, telepathy 120",2.00
+Devourer,Large,Fiend,CE,16,178,30,20,12,20,13,10,16,None,"Abyssal, telepathy 120",13.00
+"Dinosaur, Allosaurus",Large,Beast,ANY,13,51,60,19,13,17,2,12,5,None,None,2.00
+"Dinosaur, Ankylosaurus",Huge,Beast,ANY,15,68,30,19,11,15,2,12,5,None,None,3.00
+"Dinosaur, Brontosaurus",Gargantuan,Beast,ANY,15,121,30,21,9,17,2,10,7,CON,None,5.00
+"Dinosaur, Deinonychus",Medium,Beast,ANY,13,26,40,15,15,14,4,12,6,None,None,1.00
+"Dinosaur, Dimetrodon",Medium,Beast,ANY,12,19,"30, swim 20",14,10,15,2,10,5,None,None,0.25
+"Dinosaur, Hadrosaurus",Large,Beast,ANY,11,19,40,15,10,13,2,10,5,None,None,0.25
+"Dinosaur, Plesiosaurus",Large,Beast,ANY,13,68,"20, swim 40",18,15,16,2,12,5,None,None,2.00
+"Dinosaur, Pteranodon",Medium,Beast,ANY,13,13,"10, fly 60",12,15,10,2,9,5,None,None,0.25
+"Dinosaur, Quetzalcoatlus",Huge,Beast,ANY,13,30,"10, fly 80",15,13,13,2,10,5,None,None,2.00
+"Dinosaur, Stegosaurus",Huge,Beast,ANY,13,76,40,20,9,17,2,11,5,None,None,4.00
+"Dinosaur, Triceratops",Huge,Beast,ANY,13,95,50,22,9,17,2,11,5,None,None,5.00
+"Dinosaur, Tyrannosaurus Rex",Huge,Beast,ANY,13,136,50,25,10,19,2,12,9,None,None,8.00
+"Dinosaur, Velociraptor",Tiny,Beast,ANY,13,10,30,6,14,13,4,12,6,None,None,0.25
+Displacer Beast,Large,Monstrosity,LE,13,85,40,18,15,16,6,12,8,None,None,3.00
+Doppelganger,Medium,Monstrosity,N,14,52,30,11,18,14,11,12,14,None,Common,3.00
+"Dragon, Chromatic, Black, Adult",Huge,Dragon,CE,19,195,"40, 80 fly, swim 40",23,14,21,14,13,17,"DEX, CON, WIS, CHA","Common, Draconic",14.00
+"Dragon, Chromatic, Black, Ancient",Gargantuan,Dragon,CE,22,367,"40, 80 fly, swim 40",27,14,25,16,15,19,"DEX, CON, WIS, CHA","Common, Draconic",21.00
+"Dragon, Chromatic, Black, Wyrmling",Medium,Dragon,CE,17,33,"30, fly 60, 30 swim",15,14,13,10,11,13,"DEX, CON, WIS, CHA","Common, Draconic",2.00
+"Dragon, Chromatic, Black, Young",Large,Dragon,CE,18,127,"40, 80 fly, swim 40",19,14,17,12,11,15,"DEX, CON, WIS, CHA",Draconic,7.00
+"Dragon, Chromatic, Blue, Adult",Huge,Dragon,LE,19,225,"40, 40 burrow, 80 fly",25,10,23,16,15,19,"DEX, CON, WIS, CHA","Common, Draconic",16.00
+"Dragon, Chromatic, Blue, Ancient",Gargantuan,Dragon,LE,22,481,"40, 30 burrow, 80 fly",29,10,27,18,17,21,"DEX, CON, WIS, CHA","Common, Draconic",23.00
+"Dragon, Chromatic, Blue, Wyrmling",Medium,Dragon,LE,17,52,"30, 15 burrow, fly 60",17,10,15,12,11,15,"DEX, CON, WIS, CHA","Common, Draconic",3.00
+"Dragon, Chromatic, Blue, Young",Large,Dragon,LE,18,152,"40, 20 burrow, 80 fly",21,10,19,14,13,17,"DEX, CON, WIS, CHA",Draconic,9.00
+"Dragon, Chromatic, Green, Adult",Huge,Dragon,LE,19,207,"40, 80 fly, swim 40",23,12,21,18,15,17,"DEX, CON, WIS, CHA","Common, Draconic",15.00
+"Dragon, Chromatic, Green, Ancient",Gargantuan,Dragon,LE,21,385,"40, 80 fly, swim 40",27,12,25,20,17,19,"DEX, CON, WIS, CHA","Common, Draconic",22.00
+"Dragon, Chromatic, Green, Wyrmling",Medium,Dragon,LE,17,38,"30, fly 60, swim 30",15,12,13,14,11,13,"DEX, CON, WIS, CHA",Draconic,2.00
+"Dragon, Chromatic, Green, Young",Large,Dragon,LE,18,136,"40, fly 80, swim 40",19,12,17,16,13,15,"DEX, CON, WIS, CHA","Common, Draconic",8.00
+"Dragon, Chromatic, Red, Adult",Huge,Dragon,CE,19,256,"40, climb 40, fly 80",27,10,25,16,13,21,"DEX, CON, WIS, CHA","Common, Draconic",17.00
+"Dragon, Chromatic, Red, Ancient",Gargantuan,Dragon,CE,22,546,"40, climb 40, fly 80",30,10,29,18,15,23,"DEX, CON, WIS, CHA","Common, Draconic",24.00
+"Dragon, Chromatic, Red, Wyrmling",Medium,Dragon,CE,17,75,"40, climb 40, fly 80",19,10,17,12,11,15,"DEX, CON, WIS, CHA",Draconic,4.00
+"Dragon, Chromatic, Red, Young",Large,Dragon,CE,18,178,"30, climb 30, fly 60",23,10,21,14,11,19,"DEX, CON, WIS, CHA","Common, Draconic",10.00
+"Dragon, Chromatic, White, Adult",Huge,Dragon,CE,18,200,"40, burrow 30, fly 80,  swim 40",22,10,22,8,12,12,"DEX, CON, WIS, CHA","Common, Draconic",13.00
+"Dragon, Chromatic, White, Ancient",Gargantuan,Dragon,CE,20,333,"40, burrow 40, fly 80, swim 40",26,10,26,10,13,14,"DEX, CON, WIS, CHA","Common, Draconic",20.00
+"Dragon, Chromatic, White, Wyrmling",Medium,Dragon,CE,16,32,"30, burrow 15, fly 60, swim 30",14,10,14,5,10,11,"DEX, CON, WIS, CHA",Draconic,2.00
+"Dragon, Chromatic, White, Young",Large,Dragon,CE,14,133,"40, burrow 20, fly 80, swim 40",18,10,18,6,11,12,"DEX, CON, WIS, CHA","Common, Draconic",6.00
+"Dragon, Metallic, Brass, Adult",Huge,Dragon,CG,18,172,"40, burrow 30, fly 80",23,10,21,14,13,17,"DEX, CON, WIS, CHA","Common, Draconic",13.00
+"Dragon, Metallic, Brass, Ancient",Gargantuan,Dragon,CG,20,297,"40, burrow 40, fly 80",27,10,25,16,15,19,"DEX, CON, WIS, CHA","Common, Draconic",20.00
+"Dragon, Metallic, Brass, Wyrmling",Medium,Dragon,CG,16,16,"30, burrow 15, fly 60",15,10,13,10,11,13,"DEX, CON, WIS, CHA",Draconic,1.00
+"Dragon, Metallic, Brass, Young",Large,Dragon,CG,17,110,"40, burrow 20, fly 80",19,10,17,12,11,15,"DEX, CON, WIS, CHA","Common, Draconic",6.00
+"Dragon, Metallic, Bronze, Adult",Huge,Dragon,LG,19,212,"40, 80 fly, swim 40",25,10,23,16,15,19,"DEX, CON, WIS, CHA","Common, Draconic",15.00
+"Dragon, Metallic, Bronze, Ancient",Gargantuan,Dragon,LG,22,444,"40, fly 80, swim 40",29,10,27,18,17,21,"DEX, CON, WIS, CHA","Common, Draconic",22.00
+"Dragon, Metallic, Bronze, Wyrmling",Medium,Dragon,LG,17,32,"30, fly 60, swim 30",17,10,15,12,11,15,"DEX, CON, WIS, CHA",Draconic,2.00
+"Dragon, Metallic, Bronze, Young",Large,Dragon,LG,18,142,"40, fly 80, swim 40",21,10,19,14,13,17,"DEX, CON, WIS, CHA","Common, Draconic",8.00
+"Dragon, Metallic, Copper, Adult",Huge,Dragon,CG,18,184,"40, climb 40, fly 80",23,12,21,18,15,17,"DEX, CON, WIS, CHA","Common, Draconic",14.00
+"Dragon, Metallic, Copper, Ancient",Gargantuan,Dragon,CG,21,350,"40, climb 40, fly 80",27,12,25,20,17,19,"DEX, CON, WIS, CHA","Common, Draconic",21.00
+"Dragon, Metallic, Copper, Wyrmling",Medium,Dragon,CG,16,22,"30, climb 30, fly 60",15,12,13,14,11,13,"DEX, CON, WIS, CHA",Draconic,1.00
+"Dragon, Metallic, Copper, Young",Large,Dragon,CG,17,119,"40, climb 40, fly 80",19,12,17,16,13,15,"DEX, CON, WIS, CHA","Common, Draconic",7.00
+"Dragon, Metallic, Gold, Adult",Huge,Dragon,LG,19,256,"40, fly 80, swim 40",27,14,25,16,15,24,"DEX, CON, WIS, CHA","Common, Draconic",17.00
+"Dragon, Metallic, Gold, Ancient",Gargantuan,Dragon,LG,22,546,"40, fly 80, swim 40",30,14,29,18,17,28,"DEX, CON, WIS, CHA","Common, Draconic",24.00
+"Dragon, Metallic, Gold, Wyrmling",Medium,Dragon,LG,17,60,"30, fly 60, swim 30",19,14,17,14,11,16,"DEX, CON, WIS, CHA",Draconic,3.00
+"Dragon, Metallic, Gold, Young",Large,Dragon,LG,18,178,"40, fly 80, swim 40",23,14,21,16,13,20,"DEX, CON, WIS, CHA","Common, Draconic",10.00
+"Dragon, Metallic, Silver, Adult",Huge,Dragon,LG,19,243,"40, fly 80",27,10,25,16,13,21,"DEX, CON, WIS, CHA","Common, Draconic",16.00
+"Dragon, Metallic, Silver, Ancient",Gargantuan,Dragon,LG,22,487,"40, fly 80",30,10,29,18,15,23,"DEX, CON, WIS, CHA","Common, Draconic",23.00
+"Dragon, Metallic, Silver, Wyrmling",Medium,Dragon,LG,17,45,"30, fly 60",19,10,17,12,11,15,"DEX, CON, WIS, CHA",Draconic,2.00
+"Dragon, Metallic, Silver, Young",Large,Dragon,LG,18,168,"40, fly 80",23,10,21,14,11,19,"DEX, CON, WIS, CHA","Common, Draconic",9.00
+"Dragon, Turtle",Gargantuan,Dragon,N,20,341,"20, swim 40",25,10,20,10,12,12,"DEX, CON, WIS","Aquan, Draconic",17.00
+Dragonclaw,Medium,Humanoid (Human),NE,14,16,30,9,16,13,11,10,12,WIS,"Common, Draconic",1.00
+Dragonfang,Medium,Humanoid (Human),NE,15,78,30,11,16,14,12,12,14,WIS,"Common, Draconic, Infernal",5.00
+Dragonsoul,Medium,Humanoid (Human),NE,16,110,30,11,18,14,13,12,16,WIS,"Common, Draconic, Infernal",7.00
+Dragonwing,Medium,Humanoid (Human),NE,14,32,30,9,16,13,11,10,12,WIS,"Common, Draconic",2.00
+Dread Warrior,Medium,Undead,NE,18,37,30,15,11,16,10,12,10,WIS,Common,1.00
+Drider,Large,Monstrosity,CE,19,123,"30, climb 30",16,16,18,13,14,12,None,"Elvish, Undercommon",6.00
+Drow,Medium,Humanoid,NE,15,13,30,10,14,10,11,11,12,None,"Elvish, Undercommon",0.25
+Drow Arachnomancer,Medium,Humanoid (Elf),CE,15,162,"30, climb 30",11,17,14,19,14,16,"CON, INT, CHA","Elvish, Undercommon, spiders",13.00
+Drow Elite Warrior,Medium,Humanoid,NE,18,71,30,13,18,14,11,13,12,"DEX, CON, WIS","Elvish, Undercommon",5.00
+Drow Favored Consort,Medium,Humanoid (Elf),NE,15,225,30,15,20,16,18,15,18,"DEX, CON, CHA","Elvish, Undercommon",18.00
+Drow House Captain,Medium,Humanoid (Elf),NE,16,162,30,14,19,15,12,14,13,"DEX, CON, WIS","Elvish, Undercommon",9.00
+Drow Inquisitor,Medium,Humanoid (Elf),NE,16,143,30,11,15,14,16,21,20,"CON, WIS, CHA","Elivhs, Undercommon",14.00
+Drow Mage,Medium,Humanoid,NE,12,45,30,9,14,10,17,13,12,None,"Elvish, Undercommon",7.00
+Drow Matron Mother,Medium,Humanoid (Elf),NE,17,262,30,12,18,16,17,21,22,"CON, WIS, CHA","Elvish, Undercommon",20.00
+Drow Priestess of Lolth,Medium,Humanoid,NE,16,71,30,10,14,12,13,17,18,"CON, WIS, CHA","Elvish, Undercommon",8.00
+Drow Shadowblade,Medium,Humanoid (Elf),NE,17,150,30,14,21,16,12,14,13,"DEX, CON, WIS","Elvish, Undercommon",11.00
+Dryad,Medium,Fey,N,11,22,30,1,12,11,14,15,18,None,"Elvish, Sylvan",1.00
+Duergar,Medium,Humanoid,LE,16,26,25,14,11,14,11,10,9,None,"Dwarvish, Undercommon",1.00
+Duergar Darkhaft,Medium,Humanoid (Dwarf),LE,16,26,25,14,11,14,11,10,9,None,"Dwarvish, Undercommon",2.00
+Duergar Despot,Medium,Humanoid (Dwarf),LE,21,119,25,20,5,19,15,14,13,"CON, WIS","Dwarvish, Undercommon",12.00
+Duergar Hammerer,Medium,Humanoid (Dwarf),LE,17,33,20,17,7,12,5,5,5,None,Dwarvish,2.00
+Duergar Kavalrachni,Medium,Humanoid (Dwarf),LE,16,26,25,14,11,14,11,10,9,None,"Dwarvish, Undercommon",2.00
+Duergar Keeper of the Flame,Medium,Humanoid (Dwarf),LE,16,26,25,14,11,14,11,10,9,None,"Dwarvish, Undercommon",2.00
+Duergar Mind Master,Medium,Humanoid (Dwarf),LE,14,39,25,11,17,14,15,10,12,WIS,"Dwarvish, Undercommon",2.00
+Duergar Screamer,Medium,Construct,LE,15,38,20,18,7,12,5,5,5,None,Dwarvish,3.00
+Duergar Soulblade,Medium,Humanoid (Dwarf),LE,14,18,25,11,16,10,11,10,12,None,"Dwarvish, Undercommon",1.00
+Duergar Spy,Medium,Humanoid (Dwarf),LE,15,33,25,10,16,12,12,10,13,None,"Dwarvish, Undercommon",2.00
+Duergar Stone Guard,Medium,Humanoid (Dwarf),LE,18,39,25,18,11,14,11,10,9,None,"Dwarvish, Undercommon",2.00
+Duergar Warlord,Medium,Humanoid (Dwarf),LE,20,75,25,18,11,17,12,12,14,None,"Dwarvish, Undercommon",6.00
+Duergar Xarrorn,Medium,Humanoid (Dwarf),LE,18,26,25,16,11,14,11,10,9,None,"Dwarvish, Undercommon",2.00
+Eblis,Large,Monstrosity,NE,13,26,"30, fly 40",11,16,12,12,14,11,None,"Auran, Common",1.00
+Eidolon,Medium,Undead,ANY,9,63,fly 40,7,8,9,14,19,16,WIS,Any,12.00
+"Eidolon, Sacred Statue",Large,Construct,ANY,19,95,25,19,8,19,14,19,16,WIS,Any,12.00
+"Eladrin, Autumn",Medium,Fey,CN,19,127,30,12,16,16,14,17,18,None,"Common, Elvish, Sylvan",10.00
+"Eladrin, Spring",Medium,Fey,CN,19,127,30,14,16,16,18,11,18,None,"Common, Elvish, Sylvan",10.00
+"Eladrin, Summer",Medium,Fey,CN,19,127,50,19,21,16,14,12,18,None,"Common, Elvish, Sylvan",10.00
+"Eladrin, Winter",Medium,Fey,CN,19,127,30,11,10,16,18,17,13,None,"Common, Elvish, Sylvan",10.00
+"Elder Elemental, Elder Tempest",Gargantuan,Elemental,N,19,264,fly 120,23,28,23,2,21,18,"WIS, CHA",None,23.00
+"Elder Elemental, Leviathan",Gargantuan,Elemental,N,17,328,"40, swim 120",30,24,30,2,18,17,"WIS, CHA",None,20.00
+"Elder Elemental, Phoenix",Gargantuan,Elemental,N,18,175,"20, fly 120",19,26,25,2,21,18,"WIS, CHA",None,16.00
+"Elder Elemental, Zaratan",Gargantuan,Elemental,N,21,307,"40, swim 40",30,10,30,2,21,18,"WIS, CHA",None,22.00
+"Elemental Myrmidon, Air",Medium,Elemental,N,18,117,"30, fly 30",18,14,14,9,10,10,None,"Auran, Any",7.00
+"Elemental Myrmidon, Earth",Medium,Elemental,N,18,127,30,18,10,17,8,10,10,None,"Terran, Any",7.00
+"Elemental Myrmidon, Fire",Medium,Elemental,N,18,123,40,13,18,15,9,10,10,None,"Ignan, Any",7.00
+"Elemental Myrmidon, Water",Medium,Elemental,N,18,127,"40, swim 40",18,14,15,8,10,10,None,"Aquan, Any",7.00
+"Elemental, Air",Large,Elemental,N,15,90,fly 90,14,20,14,6,10,6,None,Auran,5.00
+"Elemental, Earth",Large,Elemental,N,17,126,"30, burrow 30",20,8,20,5,10,5,None,Terran,5.00
+"Elemental, Fire",large,Elemental,N,13,102,50,10,17,16,6,10,7,None,Ignan,5.00
+"Elemental, Water",Large,Elemental,N,14,114,"30, swim 90",18,14,18,5,10,8,None,Aquan,5.00
+Eternal Flame Guardian,Medium,Humanoid (Human),CE,17,45,30,15,13,14,8,11,13,None,Common,2.00
+Eternal Flame Priest,Medium,Humanoid (Human),NE,12,52,30,12,15,14,10,11,16,None,"Common, Ignan",3.00
+"Eternal Flame, Flamewrath",Medium,Humanoid (Human),CE,12,105,30,10,14,16,11,10,16,None,"Common, Ignan",6.00
+"Eternal Flame, Razerblast",Medium,Humanoid (Human),CE,17,112,30,16,11,16,9,10,13,None,"Common, Ignan",5.00
+Ettercap,Medium,Monstrosity,NE,13,44,"30, climb 30",14,15,13,7,12,8,None,None,2.00
+Ettin,large,Giant,CE,12,85,40',21,8,17,6,10,8,None,"Giant, Orc",4.00
+Faerie Dragon,Tiny,Dragon,CG,15,14,"10, fly 60",3,20,13,14,12,16,None,"Draconic, Sylvan",1.00
+Firenewt Warlock of Imix,Medium,Humanoid (Firenewt),NE,10,33,30,13,11,12,9,11,14,None,"Draconic, Ignan",1.00
+Firenewt Warrior,Medium,Humanoid (Firenewt),NE,16,22,30,10,13,12,7,11,8,None,"Draconic, Ignan",0.50
+Flail Snail,Large,Elemental,ANY,16,52,10,17,5,20,3,10,5,None,None,3.00
+Flameskull,Tiny,Undead,NE,13,40,fly 40,1,17,14,16,10,11,None,Common,4.00
+Flumph,Small,Aberration,LG,12,7,"5, fly 30",6,15,10,14,14,11,None,"Undercommon, telepathy 60",0.13
+Flying Monkey,Small,Beast,ANY,12,3,"20, climb 20, fly 30",8,14,11,5,12,6,None,None,0.00
+Fomorian,Huge,Giant,CE,14,149,30,23,10,20,9,14,6,None,"Giant, Undercommon",8.00
+Froghemoth,Huge,Monstrosity,ANY,14,184,"30, swim 30",23,13,20,2,12,5,"CON, WIS",None,10.00
+"Fungus, Gas Spore",Large,Plant,ANY,5,1,fly 10,5,1,3,1,1,1,None,None,0.50
+"Fungus, Shrieker",Medium,Plant,ANY,5,13,None,1,1,10,1,10,3,None,None,0.00
+"Fungus, Violet",Medium,Plant,ANY,5,18,5,3,1,10,1,3,1,None,None,0.25
+Galeb Duhr,Medium,Elemental,N,16,85,"15, rolling",20,14,20,11,12,11,None,Terran,6.00
+Gargoyle,Medium,Elemental,CE,15,52,"30, fly 60",15,11,16,6,11,7,None,Terran,2.00
+"Gargoyle, Giant Four-Armed",Large,Elemental,CE,17,147,"30, fly 60",19,11,20,6,11,9,WIS,Terran,10.00
+"Genie, Dao",Large,Elemental,NE,18,187,"30, burrow 30, fly 30",23,12,24,12,13,14,"INT, WIS, CHA",Terran,11.00
+"Genie, Djinni",Large,Elemental,CG,17,161,"30, fly 90",21,15,22,15,16,20,"DEX, WIS, CHA",Auran,11.00
+"Genie, Efreeti",Large,Elemental,LE,17,200,"40, fly 60",22,12,24,16,15,16,"INT, WIS, CHA",Ignan,11.00
+"Genie, Marid",Large,Elemental,CN,17,229,"30, fly 60, swim 90",22,12,26,18,17,18,"DEX, WIS, CHA",Aquan,11.00
+Geonid,Small,Elemental,N,17,26,30,12,10,16,9,14,11,None,Terran,0.25
+Ghost,Medium,Undead,ANY,11,45,fly 40,7,13,10,10,12,17,None,Any,4.00
+Ghoul,Medium,Undead,CE,12,22,30,13,15,10,7,10,6,None,Common,1.00
+"Ghoul, Ghast",Medium,Undead,CE,13,36,30,16,17,10,11,10,8,None,Common,2.00
+Giant Crayfish,Large,Beast,ANY,15,45,"30, swim 30",15,13,13,1,9,3,None,None,2.00
+Giant Fly,Large,Beast,ANY,11,19,"30, fly 60",14,13,13,2,10,3,None,None,0.00
+Giant Ice Toad,Large,Monstrosity,N,14,52,30,16,13,14,8,10,6,None,Own,3.00
+Giant Lightning Eel,Large,Beast,ANY,13,42,"5, swim 30",11,17,16,2,12,3,None,None,3.00
+Giant Snapping Turtle,Large,Beast,ANY,17,75,"30, swim 40",19,10,14,2,12,5,None,None,3.00
+Giant Strider,Large,Monstrosity,NE,14,22,50,18,13,14,4,12,6,None,None,1.00
+Giant Subterranean Lizard,Huge,Beast,ANY,14,66,"30, swim 50",21,9,17,2,10,7,None,None,4.00
+"Giant, Cloud",Huge,Giant,N,14,200,40,27,10,22,12,16,16,"CON, WIS, CHA","Common, Giant",9.00
+"Giant, Cloud, Smiling One",Huge,"Giant (Giant, Cloud)",CN,15,262,40,26,12,22,15,16,17,"CON, INT, CHA","Common, Giant",11.00
+"Giant, Fire",Huge,Giant,LE,18,162,30,25,9,23,10,14,13,"DEX, CON, CHA",Giant,9.00
+"Giant, Fire, Dreadnought",Huge,"Giant (Giant, Fire)",LE,21,187,30,27,9,23,8,10,11,"DEX, CON, CHA",Giant,14.00
+"Giant, Frost",Huge,Giant,NE,15,138,40,23,9,21,9,10,12,"CON, WIS, CHA",Giant,8.00
+"Giant, Frost, Everlasting One",Huge,"Giant (Giant, Frost)",CE,15,189,40,25,9,24,9,10,12,"STR, CON, WIS",Giant,12.00
+"Giant, Hill",Huge,Giant,CE,13,105,40,21,8,19,5,9,6,None,Giant,5.00
+"Giant, Hill, Mouth of Grolantor",Huge,"Giant (Giant, Hill)",CE,14,105,50,21,10,18,5,7,5,None,Giant,6.00
+"Giant, Stone",Huge,Giant,N,17,126,40,23,15,20,10,12,9,"DEX, CON, WIS",Giant,7.00
+"Giant, Stone, Dreamwalker",Huge,"Giant (Giant, Stone)",CN,18,161,40,23,14,21,10,8,12,"DEX, CON, WIS","Common, Giant",10.00
+"Giant, Storm",Huge,Giant,CG,16,230,"50, swim 50",29,14,20,16,18,18,"STR, CON, WIS, CHA","Common, Giant",13.00
+"Giant, Storm, Quintessent",Huge,"Giant (Giant, Storm)",CG,12,230,"50, fly 50, swim 50",29,14,20,17,20,19,"STR, CON, WIS, CHA","Common, Giant",16.00
+Gibbering Mouther,Medium,Aberration,N,9,67,"10, swim 10",10,8,16,3,10,6,None,None,2.00
+Giff,Medium,Humanoid,LN,16,60,30,18,14,17,11,12,12,None,Common,3.00
+Girallon,Large,Monstrosity,ANY,13,59,"40, climb 40",18,16,16,5,12,7,None,None,4.00
+Githyanki Gish,Medium,Humanoid (Gith),LE,17,123,30,17,15,14,16,15,16,"CON, INT, WIS",Own,10.00
+Githyanki Kith'Rak,Medium,Humanoid (Gith),LE,18,180,30,18,16,17,16,15,17,"CON, INT, WIS",Own,12.00
+Githyanki Knight,Medium,Humanoid,LE,18,91,30,16,14,15,14,14,15,"CON, INT, WIS",Own,8.00
+Githyanki Supreme Commander,Medium,Humanoid (Gith),LE,18,187,30,19,17,18,16,16,18,"CON, INT, WIS",Own,14.00
+Githyanki Warrior,Medium,Humanoid,LE,17,49,30,15,14,12,13,13,10,"CON, INT, WIS",Own,3.00
+Githzerai Anarch,Medium,Humanoid (Gith),LN,20,144,30,16,21,18,18,20,14,"STR, DEX, INT, WIS",Own,16.00
+Githzerai Enlightened,Medium,Humanoid (Gith),LN,18,112,30,14,19,16,17,19,13,"STR, DEX, INT, WIS",Own,10.00
+Githzerai Monk,Medium,Humanoid,LN,14,38,30,12,15,12,13,14,10,"STR, DEX, INT, WIS",Own,2.00
+Githzerai Zerth,Medium,Humanoid,LN,17,84,30,13,18,15,16,17,12,"STR, DEX, INT, WIS",Own,6.00
+Gnoll,Medium,Humanoid,CE,15,22,30,14,12,11,6,10,7,None,Gnoll,0.50
+Gnoll Fang of Yeenoghu,Medium,Humanoid,CE,14,65,30,17,15,15,10,11,13,"CON, WIS, CHA","Abyssal, Gnoll",4.00
+Gnoll Flesh Gnawer,Medium,Humanoid (Gnoll),CE,14,22,30,12,14,12,8,10,8,DEX,Gnoll,1.00
+Gnoll Hunter,Medium,Humanoid (Gnoll),CE,13,22,30,14,14,12,8,12,8,None,GNoll,0.50
+Gnoll Pack Lord,Medium,Humanoid,CE,15,49,30,16,14,13,8,11,9,None,Gnoll,2.00
+Gnoll Witherling,Medium,Undead,CE,12,11,30,14,8,12,5,5,5,None,Gnoll,0.25
+"Gnoll, Flind",Medium,Humanoid (Gnoll),CE,16,127,30,20,10,19,11,13,12,"CON, WIS","Gnoll, Abyssal",9.00
+"Gnome, Deep (Svirfneblin)",Small,Humanoid,NG,15,16,20,15,14,14,12,10,9,None,"Gnomish, Terran, Undercommon",0.50
+Goblin,small,Humanoid,NE,15,7,30,8,14,10,10,8,8,None,"Common, Goblin",0.25
+Goblin Boss,small,Humanoid,NE,17,21,30,10,14,10,10,8,10,None,"Common, Goblin",1.00
+"Golem, Clay",Large,Construct,ANY,14,133,20,20,9,18,3,8,1,None,Creator,9.00
+"Golem, Flesh",Medium,Construct,N,9,93,30,19,9,18,6,10,5,None,Creator,5.00
+"Golem, Iron",Large,Construct,ANY,20,210,30,24,9,20,3,11,1,None,Creator,16.00
+"Golem, Stone",Large,Construct,ANY,17,178,30,22,9,20,3,11,1,None,Creator,10.00
+Gorgon,Large,Monstrosity,ANY,19,114,40,20,11,18,2,12,7,None,None,5.00
+Gray Render,Large,Monstrosity,CN,19,189,30,19,13,20,3,6,8,"STR, CON",None,12.00
+Grell,Medium,Aberration,NE,12,55,"10, fly 30",15,14,13,12,11,9,None,Own,3.00
+Grick,Medium,Monstrosity,N,14,27,"30, climb 30",14,14,11,3,14,5,None,None,2.00
+Grick Alpha,Medium,Monstrosity,N,18,75,"30, climb 30",18,16,15,4,14,9,None,None,7.00
+Griffon,Large,Monstrosity,ANY,12,59,"30, fly 80",18,15,16,2,13,8,None,None,2.00
+Grimlock,Medium,Humanoid,NE,11,11,30,16,12,12,9,8,6,None,Undercommon,0.25
+Grung,Small,Humanoid (Grung),LE,12,11,"25, climb 25",7,14,15,10,11,10,DEX,Own,0.25
+Grung Elite Warrior,Small,Humanoid (Grung),LE,13,49,"25, climb 25",7,16,15,10,11,12,DEX,Own,2.00
+Grung Wildling,Small,Humanoid (Grung),LE,13,27,"25, climb 25",7,16,15,10,15,11,DEX,Own,1.00
+Guard Drake,Medium,Dragon,ANY,14,52,30,16,11,16,4,10,7,None,"Draconic, Ignan",2.00
+Guardian Portrait,Medium,Construct,ANY,5,22,None,1,1,10,14,10,10,None,"Common, Any",1.00
+"Hag, Annis",Large,Fey,CE,17,75,40,21,12,14,13,14,15,CON,"COmmon, Giant, Sylvan",6.00
+"Hag, Bheur",Medium,Fey,CE,17,91,30,13,16,14,12,13,16,WIS,"Auran, Common, Giant",7.00
+"Hag, Green",Medium,Fey,NE,17,82,30,18,12,16,13,14,14,None,"Common, Draconic, Sylvan",3.00
+"Hag, Night",Medium,Fiend,NE,17,112,30,18,15,16,16,14,16,None,"Abyssal, Common, Infernal, Primordial",5.00
+"Hag, Sea",Medium,Fey,CE,14,52,"30, swim 40",16,13,16,12,12,13,None,"Aquan, Common, Giant",2.00
+Harpy,Medium,Monstrosity,CE,11,38,"20, fly 40",12,13,12,7,10,13,None,Common,1.00
+Hell Hound,Medium,Fiend,LE,15,45,50,17,12,14,6,13,6,None,Infernal,3.00
+Helmed Horror,Medium,Construct,N,20,60,"30, fly 30",18,13,16,10,10,10,None,Creator,4.00
+Hippogriff,Large,Monstrosity,ANY,11,19,"40, fly 60",17,13,13,2,12,8,None,None,1.00
+Hobgoblin,Medium,Humanoid,LE,18,11,30,13,12,12,10,10,9,None,"Common, Goblin",0.50
+Hobgoblin Captain,Medium,Humanoid,LE,17,39,30,15,14,14,12,10,13,None,"Common, Goblin",3.00
+Hobgoblin Devastator,Medium,Humanoid (Goblinoid),LE,13,45,30,13,12,14,16,13,11,None,"Common, Goblin",4.00
+Hobgoblin Iron Shadow,Medium,Humanoid (Goblinoid),LE,15,32,40,14,16,15,14,15,11,None,"Common, Goblin",2.00
+Hobgoblin Warlord,Medium,Humanoid,LE,20,97,30,16,14,16,14,11,15,"INT, WIS, CHA","Common, Goblin",6.00
+Homunculus,Tiny,Construct,N,13,5,"20, fly 40",4,15,11,10,10,7,None,Creator,0.00
+Hook Horror,Large,Monstrosity,N,15,75,"30, climb 30",18,10,15,6,12,7,None,None,3.00
+Howler,Large,Fiend,CE,16,90,40,17,16,15,5,20,6,None,Abyssal,8.00
+Howling Hatred Initiate,Medium,Humanoid (Human),NE,13,9,30,10,15,10,10,9,11,None,Common,0.13
+Howling Hatred Priest,Medium,Humanoid (Human),NE,15,45,30,12,16,10,14,10,14,None,"Auran, Common",2.00
+"Howling Hatred, Feathergale Knight",Medium,Humanoid (Human),LE,16,33,30,14,14,12,11,10,14,None,"Auran, Common",1.00
+"Howling Hatred, Hurricane",Medium,Humanoid (Human),LE,14,33,45,12,16,13,10,12,10,None,"Auran, Common",2.00
+"Howling Hatred, Skyweaver",Medium,Humanoid (Human),CE,12,44,30,8,14,12,11,10,16,None,"Auran, Common",3.00
+Hulking Crab,Huge,Beast,ANY,17,76,"20, swim 30",19,8,16,3,11,3,None,None,5.00
+Hydra,Huge,Monstrosity,ANY,15,172,"30, swim 30",20,12,20,2,10,7,None,None,8.00
+Ice Toad,Medium,Monstrosity,N,12,32,"30, swim 30",13,10,14,8,10,6,None,Own,1.00
+"Inevitable, Marut",Large,Construct,LN,22,432,"40, fly 30",28,12,26,19,15,18,"INT, WIS, CHA",All,25.00
+Intellect Devourer,Tiny,Aberration,LE,12,21,40,6,14,13,12,11,10,None,"Deep Speech, telepathy 60",2.00
+Invisible Stalker,Medium,Elemental,N,14,104,"50, fly 50",16,19,14,10,15,11,None,"Auran, Common",6.00
+Ixitxachitl,Small,Aberration,CE,15,18,swim 30,12,16,13,12,13,7,None,"Abyssal, Own",0.25
+"Ixitxachitl, Vampiric",Medium,Aberration,CE,16,44,swim 30,14,18,13,12,13,7,None,"Abyssal, Own",2.00
+Jackalwere,Medium,Humanoid,CE,12,18,40,11,15,11,13,11,10,None,Common,0.50
+Jaculi,Large,Beast,ANY,14,16,"30, climb 20",15,14,11,2,8,3,None,None,0.50
+Kalka-Kylla,Large,Monstrosity,N,15,85,"30, swim 30",17,12,16,15,16,12,None,Olman,3.00
+Kamadan,Large,Monstrosity,ANY,13,67,30,16,16,14,3,14,10,None,None,4.00
+Kelpie,Medium,Plant,NE,14,67,"10, swim 30",14,14,16,7,12,10,None,"Common, Sylvan",4.00
+Kenku,Medium,Humanoid,CN,13,13,30,10,16,10,11,10,10,None,"Auran, Common",0.25
+Ki-Rin,Huge,Celestial,LG,20,152,"60, fly 120",21,16,16,19,20,20,None,"All, telepathy 120",12.00
+Kobold,Small,Humanoid,LE,12,5,30,7,15,9,8,7,8,None,"Common, Draconic",0.13
+Kobold Dragonshield,Small,Humanoid (Kobold),LE,15,44,20,12,15,14,8,9,10,None,"Common, Draconic",1.00
+Kobold Inventor,Small,Humanoid (Kobold),LE,12,13,30,7,15,12,8,7,8,None,"Common, Draconic",0.25
+Kobold Scale Sorcerer,Small,Humanoid (Kobold),LE,15,27,30,7,15,14,10,9,14,None,"COmmon, Draconic",1.00
+"Kobold, Winged",Small,Humanoid,LE,13,7,"30, fly 30",7,16,9,8,7,8,None,"Common, Draconic",0.25
+Korred,Small,Fey,CN,17,102,"30, burrow 30",23,14,20,10,15,9,None,"Dwarvish, Gnomish, Sylvan, Terran, Undercommon",7.00
+Kraken,Gargantuan,Monstrosity,CE,18,472,"20, swim 60",30,11,25,22,18,20,"STR, DEX, CON, INT, WIS","Abyssal, Celestial, Infernal, Primordial, telepathy 120",23.00
+"Kraken, Malformed",Huge,Monstrosity,CE,17,172,"20, swim 40",25,11,20,11,15,15,"STR, CON, INT, WIS, CHA","Common, telepathy 60",10.00
+Kruthik Hive Lord,Large,Monstrosity,ANY,20,102,"40, burrow 20, climb 40",19,16,17,10,14,10,None,Own,5.00
+"Kruthik, Adult",Medium,Monstrosity,ANY,18,39,"40, burrow 20, climb 40",15,16,15,7,12,8,None,Own,2.00
+"Kruthik, Young",Small,Monstrosity,ANY,16,9,"30, burrow 10, climb 30",13,16,13,4,10,6,None,Own,0.13
+Kuo-Toa,Medium,Humanoid,NE,13,13,"30, swim 30",13,10,11,11,10,8,None,Undercommon,0.25
+Kuo-Toa Archpriest,Medium,Humanoid,NE,13,97,"30, swim 30",16,14,16,13,16,14,None,Undercommon,6.00
+Kuo-Toa Whip,Medium,Humanoid,NE,11,65,"30, swim 30",14,10,14,12,14,11,None,Undercommon,1.00
+Lamia,Large,Monstrosity,CE,13,97,30,16,13,15,14,15,16,None,"Abyssal, Common",4.00
+Leucrotta,Large,Monstrosity,CE,14,67,50,18,14,15,9,12,6,None,"Abyssal, Gnoll",3.00
+Lich,Medium,Undead,ANY,17,135,30,11,16,16,20,14,16,"CON, INT, WIS","Common, Any",21.00
+Lizard King/Queen,Medium,Humanoid,CE,15,78,"30, swim 30",17,12,15,11,11,15,"CON, WIS","Abyssal, Draconic",4.00
+Lizardfolk,Medium,Humanoid,N,15,22,"30, swim 30",15,10,13,7,12,7,None,Draconic,0.50
+Lizardfolk Shaman,Medium,Humanoid,N,13,27,"30, swim 30",15,10,13,10,15,8,None,Draconic,2.00
+"Lycanthrope, Werebear",Medium,Humanoid,NG,11,135,"40, climb 30",19,10,17,11,12,12,None,Common,5.00
+"Lycanthrope, Wereboar",Medium,Humanoid,NE,11,78,40,17,10,15,10,11,8,None,Common,4.00
+"Lycanthrope, Wererat",Medium,Humanoid,LE,12,33,30,10,15,12,11,10,8,None,Common,2.00
+"Lycanthrope, Wereraven",Medium,"Humanoid (Human)
+Humanoid (Shapechanger)",LG,12,31,30,10,15,11,13,15,14,None,Common,2.00
+"Lycanthrope, Weretiger",Medium,Humanoid,N,12,120,40,17,15,16,10,13,11,None,Common,4.00
+"Lycanthrope, Werewolf",Medium,Humanoid,CE,12,58,40,15,13,14,10,11,10,None,Common,3.00
+Magmin,Small,Elemental,CN,14,9,30,7,15,12,8,11,10,None,Ignan,0.50
+Manticore,Large,Monstrosity,LE,14,68,"30, fly 50",17,16,17,7,12,8,None,Common,3.00
+Mantrap,Large,Plant,ANY,12,45,5,15,14,12,1,10,2,None,None,1.00
+Meazel,Medium,Humanoid (Meazel),NE,13,35,30,8,17,9,14,13,10,None,Common,1.00
+Medusa,Medium,Monstrosity,LE,15,127,30,10,15,16,12,13,15,None,Common,6.00
+Meenlock,Small,Fey,NE,15,31,30,7,15,12,11,10,8,None,Telepathy 120,2.00
+"Mephit, Dust",Small,Elemental,NE,12,17,"30, fly 30",5,14,10,9,11,10,None,"Auran, Terran",0.50
+"Mephit, Ice",Small,Elemental,NE,11,21,"30, fly 30",7,13,10,9,11,12,None,"Aquan, Auran",0.50
+"Mephit, Magma",Small,Elemental,NE,11,22,"30, fly 30",8,12,12,7,10,10,None,"Ignan, Terran",0.50
+"Mephit, Mud",Small,Elemental,NE,11,27,"20, fly 20, swim 20",8,12,12,9,11,7,None,"Aquan, Terran",0.25
+"Mephit, Smoke",Small,Elemental,NE,12,22,"30, fly 30",6,14,12,10,10,11,None,"Auran, Ignan",0.25
+"Mephit, Steam",Small,Elemental,NE,10,21,"30, fly 30",5,11,10,11,10,12,None,"Aquan, Ignan",0.25
+Merfolk,Medium,Humanoid,N,11,11,"10, swim 40",10,13,12,11,11,12,None,"Aquan, Common",0.13
+Merrow,Large,Monstrosity,CE,13,45,"10, swim 40",18,10,15,8,10,9,None,"Abyssal, Aquan",2.00
+Mimic,Medium,Monstrosity,N,12,58,15,17,12,15,5,13,8,None,None,2.00
+Mind Flayer,Medium,Aberration,LE,15,71,30,11,12,12,19,17,17,"INT, WIS, CHA","Deep Speech, Undercommon, telepathy 120",7.00
+Mind Flayer Lich (Illithilich),Medium,Undead,ANY,17,135,30,11,16,16,20,14,16,"CON, INT, WIS","Common, Any, Deep Speech, Undercommon, telepathy 120",22.00
+"Mind Flayer, Alhoon",Medium,Undead,ANY,15,120,30,11,12,16,19,17,17,"CON, INT, WIS, CHA","Deep Speech, Undercommon, telepathy 120",10.00
+"Mind Flayer, Elder Brain",Large,Aberration,LE,10,210,"5, swim 10",15,10,20,21,19,24,"INT, WIS, CHA","Common, Deep SPeech, Undercommon, telepathy 5 miles",14.00
+"Mind Flayer, Ulitharid",Large,Aberration,LE,15,127,30,15,12,15,21,19,21,"INT, WIS, CHA","Deep Speech, Undercommon, telepathy 2 miles",9.00
+Mindwitness,Large,Aberration,LE,15,75,fly 20,10,14,14,15,15,10,"INT, WIS","Deep Speech, Undercommon, telepathy 600",5.00
+Minotaur,Large,Monstrosity,CE,14,76,40,18,11,16,6,16,9,None,Abyssal,3.00
+"Misc. Creature, Ape",Medium,Beast,ANY,12,19,"30, climb 30",16,14,14,6,12,7,None,None,0.50
+"Misc. Creature, Awakened Shrub",Small,Plant,ANY,9,10,20,3,8,11,10,10,6,None,Creator,0.00
+"Misc. Creature, Awakened Tree",Huge,Plant,ANY,13,59,20,19,6,15,10,10,7,None,Creator,2.00
+"Misc. Creature, Axe Beak",Large,Beast,ANY,11,19,50,14,12,12,2,10,5,None,None,0.25
+"Misc. Creature, Baboon",Small,Beast,ANY,12,3,"30, climb 30",8,14,11,4,12,6,None,None,0.00
+"Misc. Creature, Badger",Tiny,Beast,ANY,10,3,"20, burrow 5",4,11,12,2,12,5,None,None,0.00
+"Misc. Creature, Bat",Tiny,Beast,ANY,12,1,"5, fly 30",2,15,8,2,12,4,None,None,0.00
+"Misc. Creature, Black Bear",Medium,Beast,ANY,11,19,"40, climb 30",15,10,14,2,12,7,None,None,0.50
+"Misc. Creature, Blink Dog",Medium,Fey,LG,13,22,40,12,17,12,10,13,11,None,"Own, Sylvan",0.25
+"Misc. Creature, Blood Hawk",Small,Beast,ANY,12,7,"10, fly 60",6,14,10,3,14,5,None,None,0.13
+"Misc. Creature, Boar",Medium,Beast,ANY,11,11,40,13,11,12,2,9,5,None,None,0.25
+"Misc. Creature, Brown Bear",Large,Beast,ANY,11,34,"40, climb 30",19,10,16,2,13,7,None,None,1.00
+"Misc. Creature, Camel",Large,Beast,ANY,9,15,50,16,8,14,2,8,5,None,None,0.13
+"Misc. Creature, Cat",Tiny,Beast,ANY,12,2,"40, climb 30",3,15,10,3,12,7,None,None,0.00
+"Misc. Creature, Constrictor Snake",large,Beast,ANY,12,13,"30, swim 30",15,14,12,1,10,3,None,None,0.25
+"Misc. Creature, Crab",Tiny,Beast,ANY,11,2,"20, swim 20",2,11,10,1,8,2,None,None,0.00
+"Misc. Creature, Crocodile",Large,Beast,ANY,12,19,"20, swim 30",15,10,13,2,10,5,None,None,0.50
+"Misc. Creature, Death Dog",Medium,Monstrosity,NE,12,39,40,15,14,14,3,13,6,None,None,1.00
+"Misc. Creature, Deer",Medium,Beast,ANY,13,4,50,11,16,11,2,14,5,None,None,0.00
+"Misc. Creature, Dire Wolf",Large,Beast,ANY,14,37,50,17,15,15,3,12,7,None,None,1.00
+"Misc. Creature, Draft Horse",Large,Beast,ANY,10,19,40,18,10,12,2,11,7,None,None,0.25
+"Misc. Creature, Eagle",Small,Beast,ANY,12,3,"10, fly 60",6,15,10,2,14,7,None,None,0.00
+"Misc. Creature, Elephant",Huge,Beast,ANY,12,76,40,22,9,17,3,11,6,None,None,4.00
+"Misc. Creature, Elk",Large,Beast,ANY,10,13,50,16,10,12,2,10,6,None,None,0.25
+"Misc. Creature, Flying Snake",Tiny,Beast,ANY,14,5,"30, fly 60, swim 30",4,18,11,2,12,5,None,None,0.13
+"Misc. Creature, Frog",Tiny,Beast,ANY,11,1,"20, swim 20",1,13,8,1,8,3,None,None,0.00
+"Misc. Creature, Giant Ape",Huge,Beast,ANY,12,157,"40, climb 40",23,14,18,7,12,7,None,None,7.00
+"Misc. Creature, Giant Badger",Medium,Beast,ANY,10,13,"30, burrow 10",13,10,15,2,12,5,None,None,0.25
+"Misc. Creature, Giant Bat",Large,Beast,ANY,13,22,"10, fly 60",15,16,11,2,12,6,None,None,0.25
+"Misc. Creature, Giant Boar",Large,Beast,ANY,12,42,40,17,10,16,2,7,5,None,None,2.00
+"Misc. Creature, Giant Centipede",small,Beast,ANY,13,4,30,5,14,12,1,7,3,None,None,0.25
+"Misc. Creature, Giant Constrictor Snake",Huge,Beast,ANY,12,60,"30, swim 30",19,14,12,1,10,3,None,None,2.00
+"Misc. Creature, Giant Crab",Medium,Beast,ANY,15,13,"30, swim 30",13,15,11,1,9,3,None,None,0.13
+"Misc. Creature, Giant Crocodile",Huge,Beast,ANY,14,85,"30, swim 50",21,9,17,2,10,7,None,None,5.00
+"Misc. Creature, Giant Eagle",Large,Beast,NG,13,26,"10, fly 80",16,17,13,8,14,10,None,"Own, Common, Auran",1.00
+"Misc. Creature, Giant Elk",Huge,Beast,ANY,14,42,60,19,16,14,7,14,10,None,"Own, Common, Elvish, Sylvan",2.00
+"Misc. Creature, Giant Fire Beetle",small,Beast,ANY,13,4,30,8,10,12,1,7,3,None,None,0.00
+"Misc. Creature, Giant Frog",Medium,Beast,ANY,11,18,"30, swim 30",12,13,11,2,10,3,None,None,0.25
+"Misc. Creature, Giant Goat",Large,Beast,ANY,11,19,40,17,11,12,3,12,6,None,None,0.50
+"Misc. Creature, Giant Hyena",Large,Beast,ANY,12,45,50,16,14,14,2,12,7,None,None,1.00
+"Misc. Creature, Giant Lizard",Large,Beast,ANY,12,19,"30, climb 30",15,12,13,2,10,5,None,None,0.25
+"Misc. Creature, Giant Octopus",Large,Beast,ANY,11,52,"10, swim 60",17,13,13,4,10,4,None,None,1.00
+"Misc. Creature, Giant Owl",Large,Beast,N,12,19,"5, fly 60",13,15,12,8,13,10,None,"Own, Common, Elvish, Sylvan",0.25
+"Misc. Creature, Giant Poisonous Snake",Medium,Beast,ANY,14,11,"30, swim 30",10,18,13,2,10,3,None,None,0.25
+"Misc. Creature, Giant Rat",Small,Beast,ANY,12,7,30,7,15,11,2,10,4,None,None,0.13
+"Misc. Creature, Giant Scorpion",Large,Beast,ANY,15,52,40,15,13,15,1,9,3,None,None,3.00
+"Misc. Creature, Giant Sea Horse",Large,Beast,ANY,13,16,swim 40,12,15,11,2,12,5,None,None,0.50
+"Misc. Creature, Giant Shark",Huge,Beast,ANY,13,126,swim 50,23,11,21,1,10,5,None,None,5.00
+"Misc. Creature, Giant Spider",Large,Beast,ANY,14,26,"30, climb 30",14,16,12,2,11,4,None,None,1.00
+"Misc. Creature, Giant Toad",Large,Beast,ANY,11,39,"20, swim 40",15,13,13,2,10,3,None,None,1.00
+"Misc. Creature, Giant Vulture",Large,Beast,NE,10,22,"10, fly 60",15,10,15,6,12,7,None,Common,1.00
+"Misc. Creature, Giant Wasp",Medium,Beast,ANY,12,13,"10, fly 50",10,14,10,1,10,3,None,None,0.50
+"Misc. Creature, Giant Weasel",Medium,Beast,ANY,13,9,40,11,16,10,4,12,5,None,None,0.13
+"Misc. Creature, Giant Wolf Spider",Medium,Beast,ANY,13,11,"40, climb 40",12,16,13,3,12,4,None,None,0.25
+"Misc. Creature, Goat",Medium,Beast,ANY,10,4,40,12,10,11,2,10,5,None,None,0.00
+"Misc. Creature, Hawk",Tiny,Beast,ANY,13,1,"10, fly 60",5,16,8,2,14,6,None,None,0.00
+"Misc. Creature, Hunter Shark",Large,Beast,ANY,12,45,swim 40,18,13,15,1,10,4,None,None,2.00
+"Misc. Creature, Hyena",Medium,Beast,ANY,11,5,50,11,13,12,2,12,5,None,None,0.00
+"Misc. Creature, Jackal",Small,Beast,ANY,12,3,40,8,15,11,3,12,6,None,None,0.00
+"Misc. Creature, Killer Whale",Huge,Beast,ANY,12,90,swim 60,19,10,13,3,12,7,None,None,3.00
+"Misc. Creature, Lion",Large,Beast,ANY,12,26,50,17,15,13,3,12,8,None,None,1.00
+"Misc. Creature, Lizard",Tiny,Beast,ANY,10,2,"20, climb 20",2,11,10,1,8,3,None,None,0.00
+"Misc. Creature, Mammoth",Huge,Beast,ANY,13,126,40,24,9,21,3,11,6,None,None,6.00
+"Misc. Creature, Mastiff",Medium,Beast,ANY,12,5,40,13,14,12,3,12,7,None,None,0.13
+"Misc. Creature, Mule",Medium,Beast,ANY,10,11,40,14,10,13,2,10,5,None,None,0.13
+"Misc. Creature, Octopus",Small,Beast,ANY,12,3,"5, swim 30",4,15,11,3,10,4,None,None,0.00
+"Misc. Creature, Owl",Tiny,Beast,ANY,11,1,"5, fly 60",3,13,8,2,12,7,None,None,0.00
+"Misc. Creature, Panther",Medium,Beast,ANY,12,13,"50, climb 40",14,15,10,3,14,7,None,None,0.25
+"Misc. Creature, Phase Spider",Large,Monstrosity,ANY,13,32,"30, climb 30",15,15,12,6,10,6,None,None,3.00
+"Misc. Creature, Poisonous Snake",Tiny,Beast,ANY,13,13,"30, swim 30",2,16,11,1,10,3,None,None,0.13
+"Misc. Creature, Polar Bear",Large,Beast,ANY,12,42,"40, swim 30",20,10,16,2,13,7,None,None,2.00
+"Misc. Creature, Pony",Medium,Beast,ANY,10,11,40,15,10,13,2,11,7,None,None,0.13
+"Misc. Creature, Quipper",Tiny,Beast,ANY,13,1,swim 40,2,16,9,1,7,2,None,None,0.00
+"Misc. Creature, Rat",Tiny,Beast,ANY,10,1,20,2,11,9,2,10,4,None,None,0.00
+"Misc. Creature, Raven",Tiny,Beast,ANY,12,1,"10, fly 50",2,14,8,2,12,6,None,None,0.00
+"Misc. Creature, Reef Shark",Medium,Beast,ANY,12,22,swim 40,14,13,13,1,10,4,None,None,0.50
+"Misc. Creature, Rhinoceros",Large,Beast,ANY,11,45,40,21,8,15,2,12,6,None,None,2.00
+"Misc. Creature, Riding Horse",Large,Beast,ANY,10,13,60,16,10,12,2,11,7,None,None,0.25
+"Misc. Creature, Saber-Toothed Tiger",Large,Beast,ANY,12,52,40,18,14,15,3,12,8,None,None,2.00
+"Misc. Creature, Scorpion",Tiny,Beast,ANY,11,1,10,2,11,8,1,8,2,None,None,0.00
+"Misc. Creature, Sea Horse",Tiny,Beast,ANY,11,1,swim 20,1,12,8,1,10,2,None,None,0.00
+"Misc. Creature, Spider",Tiny,Beast,ANY,12,1,"20, climb 20",2,14,8,1,10,2,None,None,0.00
+"Misc. Creature, Swarm of Bats",Medium,Beast,ANY,12,22,fly 30,5,15,10,2,12,4,None,None,0.25
+"Misc. Creature, Swarm of Insects",Medium,Beast,ANY,12,22,"20, climb 20",3,13,10,1,7,1,None,None,0.50
+"Misc. Creature, Swarm of Poisonous Snakes",Medium,Beast,ANY,14,36,"30, swim 30",8,18,11,1,10,3,None,None,2.00
+"Misc. Creature, Swarm of Quippers",Medium,Beast,ANY,13,28,swim 40,13,16,9,1,7,2,None,None,1.00
+"Misc. Creature, Swarm of Rats",Medium,Beast,ANY,10,24,30,9,11,9,2,10,3,None,None,0.25
+"Misc. Creature, Swarm of Ravens",Medium,Beast,ANY,12,24,"10, fly 50",6,14,8,3,12,6,None,None,0.25
+"Misc. Creature, Tiger",Large,Beast,ANY,12,37,40,17,15,14,3,12,8,None,None,1.00
+"Misc. Creature, Vulture",Medium,Beast,ANY,10,5,"10, fly 50",7,10,13,2,12,4,None,None,0.00
+"Misc. Creature, Warhorse",Large,Beast,ANY,11,19,60,18,12,13,2,12,7,None,None,0.50
+"Misc. Creature, Weasel",Tiny,Beast,ANY,13,1,30,3,16,8,2,12,3,None,None,0.00
+"Misc. Creature, Winter Wolf",Large,Monstrosity,NE,13,75,50,18,13,14,7,12,8,None,"Common, Giant, Own",3.00
+"Misc. Creature, Wolf",Medium,Beast,ANY,13,11,40,12,15,12,3,12,6,None,None,0.25
+"Misc. Creature, Worg",Large,Monstrosity,NE,13,26,50,16,13,13,7,11,8,None,"Goblin, Own",0.50
+"Modron, Duodrone",Medium,Construct,LN,15,11,30,11,13,12,6,10,7,None,Modron,0.25
+"Modron, Monodrone",Medium,Construct,LN,15,5,"30, fly 30",1,13,12,4,10,5,None,Modron,0.13
+"Modron, Pentadrone",Large,Construct,LN,16,32,40,15,14,12,10,10,13,None,Modron,2.00
+"Modron, Quadrone",Medium,Construct,LN,16,22,"30, fly 30",12,14,12,10,10,11,None,Modron,1.00
+"Modron, Tridrone",Medium,Construct,LN,15,16,30,12,13,12,9,10,9,None,Modron,0.50
+Mongrelfolk,Medium,Humanoid (Mongrelfolk),ANY,11,26,20,12,9,15,9,10,6,None,Common,0.25
+Morkoth,Medium,Aberration,CE,17,130,"25, swim 50",14,14,14,20,15,13,"DEX, INT, WIS",Telepathy 120,11.00
+Mummy,Medium,Undead,LE,11,58,20,16,8,15,6,10,12,WIS,Any,3.00
+Mummy Lord,Medium,Undead,LE,17,97,20,18,10,17,11,18,16,"CON, INT, WIS, CHA",Any,15.00
+Myconid Adult,Medium,Plant,LN,12,22,20,10,10,12,10,13,7,None,None,0.50
+Myconid Sovereign,Large,Plant,LN,13,60,30,12,10,14,13,15,10,None,None,2.00
+Myconid Sprout,Small,Plant,LN,10,7,10,8,10,10,8,11,5,None,None,0.00
+Naergoth Bladelord,Medium,Undead,NE,18,135,30,20,12,16,12,14,16,"DEX, WIS","Common, Draconic",11.00
+"Naga, Bone",Large,Undead,LE,15,58,30,15,16,12,15,15,16,None,"Common, Any",4.00
+"Naga, Guardian",Large,Monstrosity,LG,18,127,40,19,18,16,16,19,18,"DEX, CON, INT, WIS, CHA","Celestial, Common",10.00
+"Naga, Spirit",Large,Monstrosity,CE,15,75,40,18,17,14,16,15,16,"DEX, CON, INT, WIS, CHA",Abyssal Common,8.00
+Nagpa,Medium,Humanoid (Nagpa),NE,19,187,30,9,15,12,23,18,21,"INT, WIS, CHA","Common, Any",17.00
+Neogi,Small,Aberration,LE,15,33,"30, climb 30",6,16,14,13,12,15,None,"Common, Deep SPeech, Undercommon",3.00
+Neogi Hatchling,Tiny,Aberration,LE,11,7,"20, climb 20",3,13,10,6,10,9,None,None,0.13
+Neogi Master,Medium,Aberration,LE,15,71,"30, climb 30",6,16,14,16,12,18,WIS,"Common, Deep Speech, Undercommon",4.00
+Neothelid,Gargantuan,Aberration,CE,16,325,30,27,7,21,3,16,12,"INT, WIS, CHA",None,13.00
+Nereid,Medium,Fey,ANY,13,44,"30, swim 60",10,17,12,13,14,16,None,"Aquan, Common, Elvish, Sylvan",2.00
+Nightmare,Large,Fiend,NE,13,68,"60, fly 90",18,15,16,10,13,15,None,"Abyssal, Common, Infernal",3.00
+Nightwalker,Huge,Undead,CE,14,297,"40, fly 40",22,19,24,6,9,8,CON,None,20.00
+Nilbog,Small,Humanoid (Goblinoid),CE,13,7,30,8,14,10,10,8,15,None,"COmmon, Goblin",1.00
+Nothic,Medium,Aberration,NE,15,45,30,14,16,16,13,10,8,None,Undercommon,2.00
+"NPC, Abjurer",Medium,Humanoid (Any Race),ANY,12,84,30,9,14,14,18,12,11,"INT, WIS",Any,9.00
+"NPC, Acolyte",Medium,Humanoid,ANY,10,9,30,10,10,10,10,14,11,None,Any,0.25
+"NPC, Apprentice Wizard",Medium,Humanoid (Any Race),ANY,10,9,30,10,10,10,14,10,11,None,Any,0.25
+"NPC, Archdruid",Medium,Humanoid (Any Race),ANY,16,132,30,10,14,12,12,20,11,"INT, WIS","Druidic, Any",12.00
+"NPC, Archer",Medium,Humanoid (Any Race),ANY,16,75,30,11,18,16,11,13,10,None,Any,3.00
+"NPC, Archmage",Medium,Humanoid,ANY,12,99,30,10,14,12,20,15,16,"INT, WIS",Any,12.00
+"NPC, Bard",Medium,Humanoid (Any Race),ANY,15,44,30,11,14,12,10,13,14,"DEX, WIS",Any,2.00
+"NPC, Berserker",Medium,Humanoid,ANY,13,67,30,16,12,17,9,11,9,None,Any,2.00
+"NPC, Champion",Medium,Humanoid (Any Race),ANY,18,143,30,20,15,14,10,14,12,"STR, CON",Any,9.00
+"NPC, Commoner",Medium,Humanoid,ANY,10,4,30,10,10,10,10,10,10,None,Any,0.00
+"NPC, Conjurer",Medium,Humanoid (Any Race),ANY,12,40,30,9,14,11,17,12,11,"INT, WIS",Any,6.00
+"NPC, Diviner",Medium,Humanoid (Any Race),ANY,12,67,30,9,14,11,18,12,11,"INT, WIS",Any,8.00
+"NPC, Druid",Medium,Humanoid,ANY,11,27,30,10,12,13,12,15,11,None,"Druidic, Any",2.00
+"NPC, Enchanter",Medium,Humanoid (Any Race),ANY,12,40,30,9,14,11,17,12,11,"INT, WIS",Any,5.00
+"NPC, Evoker",Medium,Humanoid (Any Race),ANY,12,66,30,9,14,12,17,12,11,"INT, WIS",Any,9.00
+"NPC, Gladiator",Medium,Humanoid,ANY,16,112,30,18,15,16,10,12,15,"STR, DEX, CON, INT, WIS",Any,5.00
+"NPC, Guard",Medium,Humanoid,ANY,16,11,30,13,12,12,10,11,10,None,Any,0.13
+"NPC, Illusionist",Medium,Humanoid (Any Race),ANY,12,38,30,9,14,13,16,11,12,"INT, WIS",Any,3.00
+"NPC, Knight",Medium,Humanoid,ANY,18,52,30,16,11,14,11,11,15,"CON, WIS",Any,3.00
+"NPC, Kraken Priest",Medium,Humanoid (Any Race),ANY,10,75,"30, swim 30",12,10,16,10,15,14,None,Any,5.00
+"NPC, Mage",Medium,Humanoid,ANY,12,40,30,9,14,11,17,12,11,"INT, WIS",Any,6.00
+"NPC, Martial Arts Adept",Medium,Humanoid (Any Race),ANY,16,60,40,11,17,13,11,16,10,None,Any,3.00
+"NPC, Master Thief",Medium,Humanoid (Any Race),ANY,16,84,30,11,18,14,11,11,12,"DEX, INT","Any, Thieves' Cant",5.00
+"NPC, Necromancer",Medium,Humanoid (Any Race),ANY,12,66,30,9,14,12,17,12,11,"INT, WIS",Any,9.00
+"NPC, Noble",Medium,Humanoid,ANY,15,9,30,11,12,11,12,14,16,None,Any,0.13
+"NPC, Priest",Medium,Humanoid,ANY,13,27,25,10,10,12,13,16,13,None,Any,2.00
+"NPC, Scout",Medium,Humanoid,ANY,13,16,30,11,14,12,11,13,11,None,Any,0.50
+"NPC, Spy",Medium,Humanoid,ANY,12,27,30,10,15,10,12,14,16,None,Any,1.00
+"NPC, Transmuter",Medium,Humanoid (Any Race),ANY,12,40,30,9,14,11,17,12,11,"INT, WIS",Any,5.00
+"NPC, Tribal Warrior",Medium,Humanoid,ANY,12,11,30,13,11,12,8,11,8,None,Any,0.13
+"NPC, Veteran",Medium,Humanoid,ANY,17,58,30,16,13,14,10,11,10,None,Any,3.00
+"NPC, War Priest",Medium,Humanoid (Any Race),ANY,18,117,30,16,10,14,11,17,13,"CON, WIS",Any,9.00
+"NPC, Warlock of the Archfey",Medium,Humanoid (Any Race),ANY,11,49,30,9,13,11,11,12,18,"WIS, CHA",Any,4.00
+"NPC, Warlock of the Fiend",Medium,Humanoid (Any Race),ANY,12,78,30,10,14,15,12,12,18,"WIS, CHA",Any,7.00
+"NPC, Warlock of the Great Old One",Medium,Humanoid (Any Race),ANY,12,91,30,9,14,15,12,12,18,"WIS, CHA","Any, telepathy 30",6.00
+"NPC, Warlord",Medium,Humanoid (Any Race),ANY,18,229,30,20,16,18,12,12,18,"STR, DEX, CON",Any,12.00
+Oblex Spawn,Tiny,Ooze,LE,13,18,20,8,16,15,14,11,10,"INT, CHA",None,0.25
+"Oblex, Adult",Medium,Ooze,LE,14,75,20,8,19,16,19,12,15,"INT, CHA","Common, Any",5.00
+"Oblex, Elder",Huge,Ooze,LE,16,115,20,15,16,21,22,13,18,"INT, CHA","Common, Any",10.00
+Ogre,Large,Giant,CE,11,59,40,19,8,16,5,7,7,None,"Common, Giant",2.00
+Ogre Battering Ram,Large,Giant,CE,14,59,40,19,8,16,5,7,7,None,"Common, Giant",4.00
+Ogre Bolt Launcher,Large,Giant,CE,13,59,40,19,12,16,5,7,7,None,"Common, Giant",2.00
+Ogre Chain Brute,Large,Giant,CE,11,59,40,19,8,16,5,7,7,None,"Common, Giant",3.00
+Ogre Howdah,Large,Giant,CE,13,59,40,19,8,16,5,7,7,None,"Common, Giant",2.00
+"Ogre, Half",Large,Giant,ANY,12,30,30,17,10,14,7,9,10,None,"Common, Giant",1.00
+Oni,Large,Giant,LE,16,110,"30, fly 30",19,11,16,14,12,15,"DEX, CON, WIS, CHA","Common, Giant",7.00
+Ooze Master,Huge,Undead,LE,9,138,"30, climb 30",16,1,20,17,10,16,"INT, WIS","Common, Primordial, Thayan",10.00
+"Ooze, Black Pudding",Large,Ooze,ANY,7,85,"20, climb 20",16,5,16,1,6,1,None,None,4.00
+"Ooze, Gelatinous Cube",Large,Ooze,ANY,6,84,15,14,3,20,1,6,1,None,None,2.00
+"Ooze, Gray",Medium,Ooze,ANY,8,22,"10, climb 10",12,6,16,1,6,2,None,None,0.50
+"Ooze, Ochre Jelly",Large,Ooze,ANY,8,45,"10, climb 10",15,6,14,2,6,1,None,None,2.00
+Orc,Medium,Humanoid,CE,13,15,30,16,12,16,7,11,10,None,"Common, Orc",0.50
+Orc Blade of Ilneval,Medium,Humanoid (Orc),CE,18,60,30,17,11,17,10,12,14,WIS,"Common, Orc",4.00
+Orc Claw of Luthic,Medium,Humanoid (Orc),CE,14,45,30,14,15,16,10,15,11,None,"COmmon, Orc",2.00
+Orc Eye of Gruumsh,Medium,Humanoid,CE,16,45,30,16,12,16,9,13,12,None,"Common, Orc",2.00
+Orc Hand of Yurtrus,Medium,Humanoid (Orc),CE,12,30,30,12,11,16,11,14,9,None,"Common, Orc",2.00
+Orc Nurtured One of Yurtrus,Medium,Humanoid (Orc),CE,9,30,30,15,8,16,7,11,7,None,"Common, Orc",0.50
+Orc Red Fang of Shargaas,Medium,Humanoid (Orc),CE,15,52,30,11,16,15,9,11,9,None,"Common, Orc",3.00
+Orc War Chief,Medium,Humanoid,CE,16,93,30,18,12,18,11,11,16,"STR, CON, WIS","Common, Orc",4.00
+"Orc, Orog",Medium,Humanoid,CE,18,42,30,18,12,18,12,11,12,None,"Common, Orc",2.00
+"Orc, Tanarukk",Medium,"Fiend (Demon,Orc)",CE,14,95,30,18,13,20,9,9,9,None,"Abyssal, Common, Orc",5.00
+Otyugh,Large,Aberration,N,14,114,30,16,11,19,6,13,6,CON,Own,5.00
+Owlbear,Large,Monstrosity,ANY,13,59,40,20,12,17,3,12,7,None,None,3.00
+Pegasus,Large,Celestial,CG,12,59,"60, fly 90",18,15,16,10,15,13,"DEX, WIS, CHA","Celestial, Common, Elvish, Sylvan",2.00
+Peryton,Medium,Monstrosity,CE,13,33,"20, fly 60",16,12,13,9,12,10,None,"Common, Elvish",2.00
+Phantom Warrior,Medium,Undead,ANY,16,45,30,16,11,16,8,10,15,None,Any,3.00
+Piercer,Medium,Monstrosity,ANY,15,22,"5, climb 5",10,13,16,1,7,3,None,None,0.50
+Pixie,Tiny,Fey,NG,15,1,"10, fly 30",2,20,8,10,14,15,None,Sylvan,0.25
+"Prince of Apocalypse, Imix",Huge,Elemental,NE,17,325,"50, fly 50",19,24,22,15,16,23,"DEX, CON, CHA","Common, Ignan",19.00
+"Prince of Apocalypse, Ogremoch",Gargantuan,Elemental,NE,20,526,"50, burrow 50",26,11,28,11,15,22,"STR, CON, WIS","Common, Terran",20.00
+"Prince of Apocalypse, Olhydra",Huge,Elemental,NE,18,324,"50, swim 100",21,22,24,17,18,23,"STR, CON, WIS",Aquan,18.00
+"Prince of Apocalypse, Yan-C-BIn",Huge,Elemental,NE,22,283,"50, fly 150",18,24,24,16,21,23,"DEX, WIS, CHA",Auran,18.00
+Pseudodragon,Tiny,Dragon,NG,13,7,"15, fly 60",6,15,13,10,12,10,None,"Common, Draconic",0.25
+Pterafolk,Large,Monstrosity,NE,12,26,"30, fly 50",15,13,12,9,10,11,None,Common,1.00
+Purple Worm,Gargantuan,Monstrosity,ANY,18,247,"50, burrow 30",28,7,22,1,8,4,"CON, WIS",None,15.00
+"Purple Worm, Wormling",Large,Monstrosity,ANY,12,42,20,16,7,16,1,6,2,None,None,2.00
+Quaggoth,Medium,Humanoid,CN,13,45,"30, climb 30",17,12,16,6,12,7,None,Undercommon,2.00
+Quickling,Tiny,Fey,CE,16,10,120,4,23,13,10,12,7,None,"Common, Sylvan",1.00
+Rakshasa,Medium,Fiend,LE,16,110,40,14,17,18,13,16,20,None,"Common, Infernal",13.00
+Redcap,Small,Fey,CE,13,45,25,18,13,18,10,12,9,None,"Common, Sylvan",3.00
+Remorhaz,Huge,Monstrosity,ANY,17,195,"30, burrow 20",24,13,21,4,10,5,None,None,11.00
+"Remorhaz, Young",Large,Monstrosity,ANY,14,93,"30, burrow 20",18,13,17,3,10,4,None,None,5.00
+Retriever,Large,Construct,LE,19,210,"40, climb 40",22,16,20,3,11,4,"DEX, CON, WIS","Abyssal, Elvish, Undercommon",14.00
+Revenant,Medium,Undead,N,13,136,30,18,14,18,13,16,18,"STR, CON, WIS, CHA",Any,5.00
+Roc,Gargantuan,Monstrosity,ANY,15,248,"20, fly 120",28,10,20,3,10,9,"DEX, CON, WIS, CHA",None,11.00
+Roper,Large,Monstrosity,NE,20,93,"10, climb 10",18,8,17,7,16,6,None,None,5.00
+Rust Monster,Medium,Monstrosity,ANY,14,27,40,13,12,13,2,13,6,None,None,0.50
+Sahuagin,Medium,Humanoid,LE,12,22,"30, swim 40",13,11,12,12,13,9,None,Own,0.50
+Sahuagin Baron,Large,Humanoid,LE,16,76,"30, swim 50",19,15,16,14,13,17,"DEX, CON, INT, WIS",Own,5.00
+Sahuagin Priestess,Medium,Humanoid,LE,12,33,"30, swim 40",13,11,12,12,14,13,None,Own,2.00
+Salamander,Large,Elemental,NE,15,90,30,18,14,15,11,10,12,None,Ignan,5.00
+"Salamander, Fire Snake",Medium,Elemental,NE,14,22,30,12,14,11,7,10,8,None,Ignan,1.00
+"Salamander, Frost",Huge,Elemental,ANY,17,168,"60, burrow 40, climb 40",20,12,18,7,11,7,"CON, WIS",Primordial,9.00
+Satyr,Medium,Fey,CN,14,31,40,12,16,11,12,10,14,None,"Common, Elvish, Sylvan",0.50
+Scarecrow,Medium,Construct,CE,11,36,30,11,13,11,10,10,13,None,Creator,1.00
+Sea Lion,Large,Monstrosity,ANY,15,90,"10, swim 40",17,15,15,3,12,8,None,None,5.00
+Sea Spawn,Medium,Humanoid,NE,11,32,"20, swim 30",15,8,15,6,10,8,None,"Aquan, Common",1.00
+Shadar-Kai Gloom Weaver,Medium,Humanoid (Elf),N,14,104,30,11,18,14,15,12,18,"DEX, CON","Common, Elvish",9.00
+Shadar-Kai Shadow Dancer,Medium,Humanoid (Elf),N,15,71,30,12,16,13,11,12,12,"DEX, CHA","Common, Elvish",7.00
+Shadar-Kai Soul Monger,Medium,Humanoid (Elf),N,15,123,30,8,17,14,19,15,13,"DEX, WIS, CHA","Common, Elvish",11.00
+Shadow,Medium,Undead,CE,12,16,40,6,14,13,6,10,8,None,None,0.50
+Shadow Mastiff,Medium,Monstrosity,NE,12,33,40,16,14,13,5,12,5,None,None,2.00
+Shadow Mastiff Alpha,Medium,Monstrosity,NE,12,48,40,16,14,13,6,12,5,None,None,2.00
+Shambling Mound,Large,Plant,ANY,15,136,"20, swim 20",18,8,16,5,10,5,None,None,5.00
+Shield Guardian,Large,Construct,ANY,17,142,30,18,8,18,7,1,,None,Any,7.00
+Siren,Medium,Fey,CG,14,38,"30, swim 30",10,18,12,13,14,16,None,"Common, Elvish, Sylvan",3.00
+Skeleton,Medium,Undead,LE,13,13,30,10,14,15,6,8,5,None,Any,0.25
+"Skeleton, Giant",Huge,Undead,NE,17,115,30,21,10,20,4,6,6,None,Giant,7.00
+"Skeleton, Minotaur",Large,Undead,LE,12,67,40,18,11,15,6,8,5,None,Abyssal,2.00
+"Skeleton, Warhorse",Large,Undead,LE,13,22,60,18,12,15,2,8,5,None,None,0.50
+Skulk,Medium,Humanoid,CN,14,18,30,6,19,10,10,7,1,CON,Common,0.50
+Skull Lord,Medium,Undead,LE,18,105,30,14,16,17,16,15,21,None,Any,15.00
+Slaad Tadpole,Tiny,Aberration,CN,12,10,30,7,15,10,3,5,3,None,Own,0.13
+"Slaad, Blue",Large,Aberration,CN,15,123,30,20,15,18,7,7,9,None,"Own, telepathy 60",7.00
+"Slaad, Death",Medium,Aberration,CE,18,170,30,20,15,19,15,10,16,None,"Own, telepathy 60",10.00
+"Slaad, Gray",Medium,Aberration,CN,18,127,30,17,17,16,13,8,14,None,"Own, telepathy 60",9.00
+"Slaad, Green",Large,Aberration,CN,16,127,30,18,15,16,11,8,12,None,"Own, telepathy 60",8.00
+"Slaad, Red",Large,Aberration,CN,14,93,30,16,12,16,6,6,7,None,"Own, telepathy 60",5.00
+Slithering Tracker,Medium,Ooze,CE,14,32,"30, climb 30, swim 30",16,19,15,10,14,11,None,Any,3.00
+"Sorrowsworn, The Angry",Medium,Monstrosity,NE,18,255,30,17,10,19,8,13,6,None,Common,13.00
+"Sorrowsworn, The Hungry",Medium,Monstrosity,NE,17,225,30,19,10,17,6,11,6,None,Common,11.00
+"Sorrowsworn, The Lonely",Medium,Monstrosity,NE,16,112,30,16,12,17,6,11,6,None,Common,9.00
+"Sorrowsworn, The Lost",Medium,Monstrosity,NE,15,78,30,17,12,15,6,7,5,None,Common,7.00
+"Sorrowsworn, The Wretched",Small,Monstrosity,NE,15,10,40,7,12,9,5,6,5,None,None,0.25
+Spawn of Kyuss,Medium,Undead,CE,10,76,30,16,11,18,5,7,3,WIS,Any,5.00
+Specter,Medium,Undead,CE,12,22,fly 50,1,14,11,10,10,11,None,Any,1.00
+"Sphinx, Andro",Large,Monstrosity,LN,17,199,"40, fly 60",22,10,20,16,18,23,"DEX, CON, INT, WIS","Common, Own",17.00
+"Sphinx, Gyno",Large,Monstrosity,LN,17,136,"40, fly 60",18,15,16,18,18,18,None,"Common, Own",11.00
+Sprite,Tiny,Fey,NG,15,2,"10, fly 40",3,18,10,14,13,11,None,"Common, Elvish, Sylvan",0.25
+Star Spawn Grue,Small,Aberration,NE,11,17,30,6,13,10,9,11,6,None,Deep Speech,0.25
+Star Spawn Hulk,Large,Aberration,CE,16,136,30,20,8,21,7,12,9,"DEX, WIS",Deep Speech,10.00
+Star Spawn Larva Mage,Medium,Aberration,CE,16,168,30,17,12,23,18,12,16,"DEX, WIS, CHA",Deep Speech,16.00
+Star Spawn Mangler,Medium,Aberration,CE,14,71,"40, climb 40",8,18,12,11,12,7,"DEX, CON",Deep Speech,5.00
+Star Spawn Seer,Medium,Aberration,NE,17,153,30,14,12,18,22,19,16,"DEX, INT, WIS, CHA","Common, Deep Speech, Undercommon",13.00
+"Steeder, Female",Large,Monstrosity,ANY,14,30,"30, climb 30",15,16,14,2,10,3,None,None,1.00
+"Steeder, Male",Medium,Monstrosity,ANY,12,13,"30, climb 30",15,12,14,2,10,3,None,None,0.25
+Steel Predator,Large,Construct,LE,20,207,40,24,17,22,4,14,6,None,"Modron, Any",16.00
+Stirge,Tiny,Beast,ANY,14,2,"10, fly 40",4,16,11,2,8,6,None,None,0.13
+Stone Cursed,Medium,Construct,LE,17,19,10,16,5,14,5,8,7,None,Any,1.00
+Stone Juggernaut,Large,Construct,ANY,15,157,50,22,1,21,2,11,3,None,None,12.00
+Strahd's Animated Armor,Medium,Construct,LE,21,112,30,17,13,16,9,10,9,None,Common,6.00
+Su-Monster,Medium,Monstrosity,CE,12,27,"30, climb 30",14,15,12,9,13,9,None,None,1.00
+Succubus/Incubus,Medium,Fiend,NE,15,66,"30, fly 60",8,17,13,15,12,20,None,"Abyssal, Common, Infernal, telepathy 60",4.00
+Sword Wraith Commander,Medium,Undead,LE,18,127,30,18,14,18,11,12,14,None,Any,8.00
+Sword Wraith Warrior,Medium,Undead,LE,16,45,30,18,12,17,6,9,10,None,Any,3.00
+Tabaxi Hunter,Medium,Humanoid (Tabaxi),CG,14,40,"30, climb 20",10,17,11,13,14,15,None,"Common, Any",1.00
+Tabaxi Minstrel,Medium,Humanoid (Tabaxi),CG,12,22,"30, climb 20",10,15,11,14,12,16,None,"COmmon, Any",0.25
+Tarrasque,Gargantuan,Monstrosity,ANY,25,676,40,30,11,30,3,11,11,"INT, WIS, CHA",None,30.00
+Tecuziztecatl,Large,Monstrosity,N,13,102,"30, climb 30",17,10,16,15,16,13,None,"Olman, Primal",4.00
+Thorn Slinger,Large,Plant,ANY,11,32,10,13,12,12,1,10,1,None,None,0.50
+Thorny,Medium,Plant,N,14,27,30,13,12,13,2,10,6,None,Own,1.00
+Thri-Kreen,Medium,Humanoid,CN,15,33,40,12,15,13,8,12,7,None,Own,1.00
+Tiamat,Gargantuan,Fiend,CE,25,615,"60, fly 120",30,10,30,26,26,28,"STR, DEX, WIS","Common, Draconic, Infernal",30.00
+Tiny Servant,Tiny,Construct,ANY,15,10,"30, climb 30",4,16,10,2,10,1,None,None,1.00
+Tlincalli,Large,Monstrosity,NE,15,85,40,16,13,16,8,12,8,None,Own,5.00
+Topi,Small,Undead,CE,13,13,30,7,15,12,6,10,5,None,Alive,0.50
+Tortle,Medium,Humanoid (Tortle),LG,17,22,30,15,10,12,11,13,12,None,"Aquan, Common",0.25
+Tortle Druid,Medium,Humanoid (Tortle),LN,17,33,30,14,10,12,11,15,12,None,"Aquan, Common",2.00
+Trapper,Large,Monstrosity,ANY,13,85,"10, climb 10",17,10,17,2,13,4,None,None,3.00
+Treant,Huge,Plant,CG,16,138,30,23,8,21,12,16,12,None,"Common, Druidic, Elvish, Sylvan",9.00
+Tressym,Tiny,Beast,CN,12,5,"40, climb 30, fly 40",3,15,10,11,12,12,None,Common,0.00
+Tri-Flower Frond,Medium,Plant,ANY,10,11,5,1,10,12,1,10,1,None,None,0.50
+Troglodyte,Medium,Humanoid,CE,11,13,30,14,10,14,6,10,6,None,Own,0.25
+Troglodyte Champion of Laogzed,Medium,Humanoid (Troglodyte),CE,14,59,30,18,12,18,8,12,12,None,Own,3.00
+Troll,Large,Giant,CE,15,84,30,18,13,20,7,9,7,None,Giant,5.00
+"Troll, Dire",Huge,Giant,CE,15,172,40,22,15,21,9,11,5,"WIS, CHA",Giant,13.00
+"Troll, Rot",Large,Giant,CE,16,138,30,18,13,22,5,8,4,None,Giant,9.00
+"Troll, Spirit",Large,Giant,CE,17,97,30,1,17,13,8,9,16,None,Giant,11.00
+"Troll, Venom",Large,Giant,CE,15,94,30,18,13,20,7,9,7,None,Giant,7.00
+Umber Hulk,Large,Monstrosity,CE,18,93,"30, burrow 20",20,13,16,9,10,10,None,Own,5.00
+Unicorn,Large,Celestial,LG,12,67,50,18,14,15,11,17,16,None,"Celestial, Elvish, Sylvan, telepathy 60",5.00
+Uthgardt Shaman,Medium,Humanoid (Human),NE,13,38,30,14,12,13,10,15,12,None,"Bothii, COmmon",2.00
+Vampire,Medium,Undead,LE,16,144,30,18,18,18,17,15,18,"DEX, WIS, CHA",Any,13.00
+Vampire Spawn,Medium,Undead,NE,15,82,30,16,16,16,11,10,12,"DEX, WIS",Any,5.00
+Vampiric Mist,Medium,Undead,CE,13,30,fly 30,6,16,16,6,12,7,WIS,None,3.00
+Vargouille,Tiny,Fiend,CE,12,13,"5, fly 40",6,14,14,4,7,2,None,"Abyssal, Infernal, Any",1.00
+Vegepygmy,Small,Plant,N,13,9,30,7,14,13,6,11,7,None,Own,0.25
+Vegepygmy Chief,Small,Plant,N,14,33,30,14,14,14,7,12,9,None,Own,2.00
+Water Weird,Large,Elemental,N,13,58,swim 60,17,16,13,11,10,10,None,Aquan,3.00
+White Maw,Gargantuan,Ooze,CN,5,217,10,18,1,20,12,10,3,None,Telepathy 50,10.00
+Wight,Medium,Undead,NE,14,45,30,15,14,16,10,13,15,None,Any,3.00
+Will-O'-Wisp,Tiny,Undead,CE,19,22,fly 50,1,28,10,13,14,11,None,Any,2.00
+Wood Woad,Medium,Plant,LN,18,75,"30, climb 30",18,12,16,10,13,8,None,Sylvan,5.00
+Wraith,Medium,Undead,NE,13,67,fly 60,6,16,16,12,14,15,None,Any,5.00
+Wyvern,Large,Dragon,ANY,13,110,"20, fly 80",19,1,16,5,12,6,None,None,6.00
+Xorn,Medium,Elemental,N,19,73,"20, burrow 20",17,10,22,11,10,11,None,Terran,5.00
+Xvart,Small,Humanoid (Xvart),CE,13,7,30,8,14,10,8,7,7,None,Abyssal,0.13
+Xvart Speaker,Small,Humanoid (Xvart),CE,13,7,30,8,14,10,13,7,7,None,"Abyssal, Any",0.13
+Xvart Warlock of Raxivort,Small,Humanoid (Xvart),CE,12,22,30,8,14,12,8,11,12,None,Abyssal,1.00
+Yakfolk Priest,Large,Monstrosity,NE,12,52,30,16,11,15,14,18,14,None,"Common, Yikaria",4.00
+Yakfolk Warrior,Large,Monstrosity,NE,11,60,30,18,11,15,14,15,14,None,"Common, Yikaria",3.00
+Yellow Musk Creeper,Medium,Plant,ANY,6,60,"5, climb 5",12,3,12,1,10,3,None,None,2.00
+Yellow Musk Zombie,Medium,Undead,ANY,9,33,20,13,9,12,1,6,3,None,None,0.25
+Yeth Hound,Large,Fey,NE,14,51,"40, fly 40",18,17,16,5,12,7,None,"Common, Elvish, Sylvan",4.00
+Yeti,Large,Monstrosity,CE,12,51,"40, climb 40",18,13,16,8,12,7,None,Own,3.00
+"Yeti, Abominable",Huge,Monstrosity,CE,15,137,"40, 40 climb",24,10,22,9,13,9,None,Own,9.00
+Yuan-Ti Abomination,Large,Monstrosity,NE,15,127,40,19,16,17,17,15,18,None,"Abyssal, Common, Draconic",7.00
+Yuan-Ti Anathema,Huge,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,16,189,"40, climb 30, swim 30",23,13,19,19,17,20,None,"Abyssal, Common, Draconic",12.00
+Yuan-Ti Broodguard,Medium,Humanoid (Yuan-Ti),NE,14,45,30,15,14,14,6,11,4,"STR, DEX, WIS","Abyssal, Common, Draconic",2.00
+Yuan-Ti Malison,Medium,Monstrosity,NE,12,66,30,16,14,13,14,12,16,None,"Abyssal, Common, Draconic",3.00
+Yuan-Ti Mind Whisperer,Medium,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,14,71,30,16,14,13,14,12,16,"WIS, CHA","Abyssal, Common, Draconic",4.00
+Yuan-Ti Nightmare Speaker,Medium,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,14,71,30,16,14,13,14,12,16,"WIS, CHA","Abyssal, Common, Draconic",4.00
+Yuan-Ti Pit Master,Medium,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,14,88,30,16,14,13,14,12,16,"WIS, CHA","Abyssal, Common, Draconic",5.00
+Yuan-Ti Pureblood,Medium,Monstrosity,NE,11,40,30,11,12,11,13,12,14,None,"Abyssal, Common, Draconic",1.00
+"Yugoloth, Arcana",Medium,Fiend,NE,17,104,"30, fly 30",17,12,14,20,16,17,"DEX, INT, WIS, CHA","All, telepathy 120",12.00
+"Yugoloth, Cano",Medium,Fiend (Yugoloth),NE,16,120,50,18,10,17,5,17,12,None,"Abyssal, Infernal, telepathy 60",8.00
+"Yugoloth, Dhergo",Medium,Fiend (Yugoloth),NE,15,119,30,17,10,19,7,10,9,STR,"Abyssal, Infernal, telepathy 60",7.00
+"Yugoloth, Hydro",Medium,Fiend (Yugoloth),NE,15,135,"20, swim 40",12,21,16,19,10,14,None,"Abyssal, Infernal, telepathy 60",9.00
+"Yugoloth, Merreno",Medium,Fiend (Yugoloth),NE,13,40,"30, swim 40",8,17,10,17,14,11,"DEX, INT","Abyssal, Infernal, telepathy 60",3.00
+"Yugoloth, Mezzo",Medium,Fiend,NE,18,75,40,18,11,16,7,10,11,None,"Abyssal, Infernal, telepathy 60",5.00
+"Yugoloth, Nyca",Large,Fiend,NE,18,123,"40, fly 60",20,11,19,12,10,15,None,"Abyssal, Infernal, telepathy 60",9.00
+"Yugoloth, Oino",Medium,Fiend (Yugoloth),NE,17,126,40,19,17,18,17,16,19,"CON, WIS","Abyssal, Infernal, telepathy 60",12.00
+"Yugoloth, Ultro",Medium,Fiend,NE,19,153,"30, fly 60",16,16,18,18,15,19,None,"Abyssal, Infernal, telepathy 120",13.00
+"Yugoloth, Yagno",Large,Fiend (Yugoloth),NE,17,147,40,19,14,21,16,15,18,"DEX, INT, WIS, CHA","Abyssal, Infernal telepathy 60",11.00
+Zombie,Medium,Undead,NE,8,22,20,13,6,16,3,6,5,WIS,Any,0.25
+"Zombie, Ankylosaurus",Huge,Undead,ANY,14,68,20,19,9,15,2,6,3,None,None,3.00
+"Zombie, Beholder",Large,Undead,NE,15,93,fly 20,10,8,16,3,8,5,WIS,"Deep Speech, Undercommon",5.00
+"Zombie, Girallon",Large,Undead,CE,11,59,"30, climb 30",18,12,16,3,7,5,None,None,3.00
+"Zombie, Greater",Medium,Undead,NE,15,97,30,18,10,17,4,6,6,WIS,Any,5.00
+"Zombie, Ogre",Large,Undead,NE,8,93,30,19,6,18,3,6,5,WIS,"Common, Giant",2.00
+"Zombie, Strahd",Medium,Undead,ANY,8,30,20,13,6,16,3,6,5,WIS,Any,1.00
+"Zombie, Tyrannosaurus",Huge,Undead,ANY,11,136,40,25,6,19,1,3,5,None,None,8.00
+Zorbo,Small,Monstrosity,ANY,10,27,"30, climb 30",13,11,13,3,12,7,None,None,0.50
+"Zuggtmoy, Bridesmaid",Medium,Plant,CE,13,22,20,14,11,11,14,8,18,None,Abyssal,0.13
+"Zuggtmoy, Chamberlain",Large,Plant,CE,13,45,20,17,7,14,11,8,12,None,"Abyssal, Undercommon",2.00
